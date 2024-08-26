@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "fmotalleb/nu_plugin_port_scan",
+  "source_uri": "https://github.com/FMotalleb/nu_plugin_port_scan",
+  "nu_plugins": ["target/release/nu_plugin_port_scan"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}

@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "fdncred/nu_plugin_pnet",
+  "source_uri": "https://github.com/fdncred/nu_plugin_pnet",
+  "nu_plugins": ["target/release/nu_plugin_pnet"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}

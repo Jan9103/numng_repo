@@ -1,0 +1,6 @@
+{"latest": {
+  "name": "yethal/terraform-importer",
+  "source_uri": "https://github.com/Yethal/terraform-importer",
+  "nu_libs": {"terraform-importer.nu": "terraform-importer.nu"},
+  "package_format": "numng"
+}}

@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "nu_scripts/background_task",
+  "source_uri": "https://github.com/nushell/nu_scripts",
+  "path_offset": "modules/background_task",
+  "nu_libs": {"task.nu": "task.nu"},
+  "package_format": "numng"
+}}

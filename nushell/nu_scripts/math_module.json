@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "nu_scripts/math_module",
+  "source_uri": "https://github.com/nushell/nu_scripts",
+  "path_offset": "modules/maths",
+  "nu_libs": {"math_functions.nu": "math_functions.nu"},
+  "package_format": "numng"
+}}

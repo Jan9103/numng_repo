@@ -1,0 +1,16 @@
+{
+  "_": {
+    "name": "nushell/nu_plugin_formats",
+    "path_offset": "crates/nu_plugin_formats",
+    "source_uri": "https://github.com/nushell/nushell",
+    "nu_plugins": ["target/release/nu_plugin_formats"],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {},
+  "0.97.1": {"git_ref": "0.97.1"},
+  "0.97.0": {"git_ref": "0.97.0"},
+  "0.96.1": {"git_ref": "0.96.1"},
+  "0.96.0": {"git_ref": "0.96.0"},
+  "0.95.0": {"git_ref": "0.95.0"}
+}

@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "berrysoft/nu_plugin_from_hdf5",
+  "source_uri": "https://github.com/Berrysoft/nu_plugin_from_hdf5",
+  "nu_plugins": ["target/release/nu_plugin_from_hdf5"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}

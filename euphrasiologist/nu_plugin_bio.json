@@ -1,0 +1,9 @@
+{
+  "latest": {
+    "name": "euphrasiologist/nu_plugin_bio",
+    "source_uri": "https://github.com/Euphrasiologist/nu_plugin_bio",
+    "nu_plugins": ["target/release/nu_plugin_bio"],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  }
+}

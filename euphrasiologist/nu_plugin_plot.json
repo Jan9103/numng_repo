@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "euphrasiologist/nu_plugin_plot",
+  "source_uri": "https://github.com/Euphrasiologist/nu_plugin_plot",
+  "nu_plugins": ["target/release/nu_plugin_plot"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}

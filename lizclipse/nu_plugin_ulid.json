@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "lizclipse/nu_plugin_ulid",
+    "source_uri": "https://github.com/lizclipse/nu_plugin_ulid",
+    "nu_plugins": ["target/release/nu_plugin_ulid"],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {},
+  "0.6.0": {"git_ref": "v0.6.0"}
+}

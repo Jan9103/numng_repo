@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "abusch/nu_plugin_semver",
+  "source_uri": "https://github.com/abusch/nu_plugin_semver",
+  "nu_plugins": ["target/release/nu_plugin_semver"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}

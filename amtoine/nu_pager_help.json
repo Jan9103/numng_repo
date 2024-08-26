@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "amtoine/nu_pager_help",
+    "source_uri": "https://github.com/amtoine/nu-pager-help",
+    "package_format": "nupm"
+  },
+  "latest": {},
+  "1.0.0": {"git_ref": "1.0.0"}
+}

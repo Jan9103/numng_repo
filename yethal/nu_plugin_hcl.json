@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "yethal/nu_plugin_hcl",
+  "source_uri": "https://github.com/Yethal/nu_plugin_hcl",
+  "nu_plugins": ["target/release/nu_plugin_hcl"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}

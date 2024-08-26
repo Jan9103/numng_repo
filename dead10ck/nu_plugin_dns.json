@@ -1,0 +1,7 @@
+{"latest": {
+  "name": "dead10ck/nu_plugin_dns",
+  "source_uri": "https://github.com/dead10ck/nu_plugin_dns",
+  "nu_plugins": ["target/release/nu_plugin_dns"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}
