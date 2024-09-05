@@ -7,7 +7,7 @@ Config snippet for adding the repository:
 ```json
 {
   "registry": [
-    {"source_uri": "https://github.com/Jan9103/numng_repo", "package_format": "numng"}
+    {"source_uri": "https://github.com/Jan9103/numng_repo", "package_format": "numng", "path_offset": "repo"}
   ]
 }
 ```
@@ -30,6 +30,7 @@ Afterwards packages can be loaded by path in here. Example:
 
 ## Structure
 
+* the actual repository is within `repo` in order to keep the github view clean(er)
 * `[author-name]/[project-name].json` in all lowercase (example: `jan9103/nutils.json`)
   * sometimes i added `/[subproject-name]` (example: `nushell/nu_scripts/math_module.json`)
   * **Note:** The package name is the same, but without the `.json` (example: `jan9103/nutils`)
