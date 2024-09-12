@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "clipplerblood/me.nu",
+    "source_uri": "https://github.com/ClipplerBlood/me.nu",
+    "package_format": "numng",
+    "shell_config": {"source": ["me.nu"]}
+  },
+  "latest": {}
+}

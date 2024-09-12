@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "bbonsign/me.nu",
+    "source_uri": "https://github.com/bbonsign/me.nu",
+    "package_format": "numng",
+    "shell_config": {"source": ["me.nu"]}
+  },
+  "latest": {}
+}
