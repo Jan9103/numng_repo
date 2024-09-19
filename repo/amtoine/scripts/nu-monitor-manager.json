@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "amtoine/scripts/nu-monitor-manager",
+    "source_uri": "https://github.com/amtoine/scripts",
+    "path_offset": "nu-monitor-manager",
+    "package_format": "nupm"
+  },
+  "latest": {}
+}

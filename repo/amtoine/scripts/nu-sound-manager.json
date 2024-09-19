@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "amtoine/scripts/nu-sound-manager",
+    "source_uri": "https://github.com/amtoine/scripts",
+    "path_offset": "nu-sound-manager",
+    "package_format": "nupm"
+  },
+  "latest": {}
+}

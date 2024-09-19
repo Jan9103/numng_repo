@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "amtoine/scripts/nu-logout",
+    "source_uri": "https://github.com/amtoine/scripts",
+    "path_offset": "nu-logout",
+    "package_format": "nupm"
+  },
+  "latest": {}
+}
