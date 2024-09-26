@@ -24,7 +24,7 @@ Afterwards packages can be loaded by path in here. Example:
 
 **Notes:**
 * Im not actively monitoring everything included for malware.
-* This repo is licensed under MIT, however included projects might have a different license.
+* This repo is licensed under the Unlicense (public domain with explicit "no warranty"), however included projects might have a different license.
 * The git-HEAD is available via `latest`, but other versions might be missing.
 
 
