@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "jan9103/potash",
+    "source_uri": "https://github.com/Jan9103/potash",
+    "package_format": "numng"
+  }.
+  "latest": {},
+  "0.0.1": {"git_ref": "v0.0.1"}
+}
