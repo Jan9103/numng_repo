@@ -9,5 +9,6 @@
     "package_format": "numng",
     "path_offset": "crates/nu_plugin_plotters"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

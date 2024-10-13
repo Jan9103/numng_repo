@@ -3,14 +3,27 @@
     "name": "nushell/nu_plugin_inc",
     "path_offset": "crates/nu_plugin_inc",
     "source_uri": "https://github.com/nushell/nushell",
-    "nu_plugins": ["target/release/nu_plugin_inc"],
+    "nu_plugins": [
+      "target/release/nu_plugin_inc"
+    ],
     "build_command": "cargo build --release",
     "package_format": "numng"
   },
   "latest": {},
-  "0.97.1": {"git_ref": "0.97.1"},
-  "0.97.0": {"git_ref": "0.97.0"},
-  "0.96.1": {"git_ref": "0.96.1"},
-  "0.96.0": {"git_ref": "0.96.0"},
-  "0.95.0": {"git_ref": "0.95.0"}
+  "0.97.1": {
+    "git_ref": "0.97.1"
+  },
+  "0.97.0": {
+    "git_ref": "0.97.0"
+  },
+  "0.96.1": {
+    "git_ref": "0.96.1"
+  },
+  "0.96.0": {
+    "git_ref": "0.96.0"
+  },
+  "0.95.0": {
+    "git_ref": "0.95.0"
+  },
+  "git": {}
 }

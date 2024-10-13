@@ -3,8 +3,11 @@
     "name": "amtoine/nu-git-manager-sugar",
     "source_uri": "https://github.com/amtoine/nu-git-manager",
     "path_offset": "pkgs/nu-git-manager-sugar",
-    "nu_libs": {"nu-git-manager-sugar": "nu-git-manager-sugar"},
+    "nu_libs": {
+      "nu-git-manager-sugar": "nu-git-manager-sugar"
+    },
     "package_format": "numng"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

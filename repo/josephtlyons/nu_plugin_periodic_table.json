@@ -2,10 +2,15 @@
   "_": {
     "name": "josephtlyons/nu_plugin_periodic_table",
     "source_uri": "https://github.com/JosephTLyons/nu_plugin_periodic_table",
-    "nu_plugins": ["target/release/nu_plugin_periodic_table"],
+    "nu_plugins": [
+      "target/release/nu_plugin_periodic_table"
+    ],
     "build_command": "cargo build --release",
     "package_format": "numng"
   },
   "latest": {},
-  "0.2.9": {"git_ref": "v0.2.9"}
+  "0.2.9": {
+    "git_ref": "v0.2.9"
+  },
+  "git": {}
 }

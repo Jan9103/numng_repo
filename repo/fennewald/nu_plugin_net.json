@@ -2,11 +2,18 @@
   "_": {
     "name": "fennewald/nu_plugin_net",
     "source_uri": "https://github.com/fennewald/nu_plugin_net",
-    "nu_plugins": ["target/release/nu_plugin_net"],
+    "nu_plugins": [
+      "target/release/nu_plugin_net"
+    ],
     "build_command": "cargo build --release",
     "package_format": "numng"
   },
   "latest": {},
-  "1.7.0": {"git_ref": "1.7.0"},
-  "1.6.0": {"git_ref": "1.6.0"}
+  "1.7.0": {
+    "git_ref": "1.7.0"
+  },
+  "1.6.0": {
+    "git_ref": "1.6.0"
+  },
+  "git": {}
 }

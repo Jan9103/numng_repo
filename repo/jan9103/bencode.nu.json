@@ -4,5 +4,6 @@
     "source_uri": "https://github.com/Jan9103/bencode.nu",
     "package_format": "numng"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

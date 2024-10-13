@@ -2,8 +2,11 @@
   "_": {
     "name": "1kinoti/stdx.nu",
     "source_uri": "https://github.com/1Kinoti/stdx.nu",
-    "nu_libs": {"stdx": "stdx"},
+    "nu_libs": {
+      "stdx": "stdx"
+    },
     "package_format": "numng"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

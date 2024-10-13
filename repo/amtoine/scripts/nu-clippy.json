@@ -5,5 +5,6 @@
     "path_offset": "nu-clippy",
     "package_format": "nupm"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

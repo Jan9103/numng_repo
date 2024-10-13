@@ -4,5 +4,6 @@
     "source_uri": "https://github.com/Jan9103/nushell_ssh",
     "package_format": "packer.nu"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

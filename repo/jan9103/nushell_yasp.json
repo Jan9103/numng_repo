@@ -4,5 +4,6 @@
     "source_uri": "https://github.com/Jan9103/nushell_yasp",
     "package_format": "numng"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

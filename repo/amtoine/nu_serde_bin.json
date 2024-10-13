@@ -5,5 +5,8 @@
     "package_format": "nupm"
   },
   "latest": {},
-  "1.1.0": {"git_ref": "1.1.0"}
+  "1.1.0": {
+    "git_ref": "1.1.0"
+  },
+  "git": {}
 }

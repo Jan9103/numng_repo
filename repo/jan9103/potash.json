@@ -5,5 +5,8 @@
     "package_format": "numng"
   },
   "latest": {},
-  "0.0.1": {"git_ref": "v0.0.1"}
+  "0.0.1": {
+    "git_ref": "v0.0.1"
+  },
+  "git": {}
 }

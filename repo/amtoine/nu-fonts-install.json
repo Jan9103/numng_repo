@@ -4,5 +4,6 @@
     "source_uri": "https://github.com/amtoine/nu-fonts-install",
     "package_format": "nupm"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }

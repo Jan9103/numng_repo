@@ -4,5 +4,6 @@
     "source_uri": "https://github.com/Jan9103/packer.nu",
     "package_format": "numng"
   },
-  "latest": {}
+  "latest": {},
+  "git": {}
 }
