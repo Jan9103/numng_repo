@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "kik4444/nu_plugin_mime",
-  "source_uri": "https://github.com/kik4444/nu_plugin_mime",
-  "nu_plugins": ["target/release/nu_plugin_mime"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "kik4444/nu_plugin_mime",
+    "source_uri": "https://github.com/kik4444/nu_plugin_mime",
+    "nu_plugins": [
+      "target/release/nu_plugin_mime"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

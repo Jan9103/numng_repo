@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "cptpiepmatz/nu-plugin-highlight",
-  "source_uri": "https://github.com/cptpiepmatz/nu-plugin-highlight",
-  "nu_plugins": ["target/release/nu_plugin_highlight"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "cptpiepmatz/nu-plugin-highlight",
+    "source_uri": "https://github.com/cptpiepmatz/nu-plugin-highlight",
+    "nu_plugins": [
+      "target/release/nu_plugin_highlight"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

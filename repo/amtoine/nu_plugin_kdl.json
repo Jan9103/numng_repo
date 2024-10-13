@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "amtoine/nu_plugin_kdl",
-  "source_uri": "https://github.com/amtoine/nu_plugin_kdl",
-  "nu_plugins": ["target/release/nu_plugin_kdl"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "amtoine/nu_plugin_kdl",
+    "source_uri": "https://github.com/amtoine/nu_plugin_kdl",
+    "nu_plugins": [
+      "target/release/nu_plugin_kdl"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

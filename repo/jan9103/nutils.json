@@ -1,5 +1,8 @@
-{"latest": {
-  "name": "jan9103/nutils",
-  "source_uri": "https://github.com/Jan9103/nutils",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "jan9103/nutils",
+    "source_uri": "https://github.com/Jan9103/nutils",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

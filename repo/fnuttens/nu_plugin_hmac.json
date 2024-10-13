@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "fnuttens/nu_plugin_hmac",
-  "source_uri": "https://github.com/fnuttens/nu_plugin_hmac",
-  "nu_plugins": ["target/release/nu_plugin_hmac"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "fnuttens/nu_plugin_hmac",
+    "source_uri": "https://github.com/fnuttens/nu_plugin_hmac",
+    "nu_plugins": [
+      "target/release/nu_plugin_hmac"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

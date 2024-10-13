@@ -1,3 +1,8 @@
 {
-  "latest": {"name": "jan9103/nushell_oh-my-posh", "source_uri": "https://github.com/Jan9103/nushell_oh-my-posh", "package_format": "packer.nu"}
+  "_": {
+    "name": "jan9103/nushell_oh-my-posh",
+    "source_uri": "https://github.com/Jan9103/nushell_oh-my-posh",
+    "package_format": "packer.nu"
+  },
+  "latest": {}
 }

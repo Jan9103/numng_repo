@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "pdenapo/nu_plugin_dpkgtable",
-  "source_uri": "https://github.com/pdenapo/nu_plugin_dpkgtable",
-  "nu_plugins": ["target/release/nu_plugin_dpkgtable"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "pdenapo/nu_plugin_dpkgtable",
+    "source_uri": "https://github.com/pdenapo/nu_plugin_dpkgtable",
+    "nu_plugins": [
+      "target/release/nu_plugin_dpkgtable"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

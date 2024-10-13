@@ -1,9 +1,12 @@
 {
-  "latest": {
+  "_": {
     "name": "fmotalleb/nu_plugin_clipboard",
     "source_uri": "https://github.com/FMotalleb/nu_plugin_clipboard",
-    "nu_plugins": ["target/release/nu_plugin_clipboard"],
+    "nu_plugins": [
+      "target/release/nu_plugin_clipboard"
+    ],
     "build_command": "cargo build --release",
     "package_format": "numng"
-  }
+  },
+  "latest": {}
 }

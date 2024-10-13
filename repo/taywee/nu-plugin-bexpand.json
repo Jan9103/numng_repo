@@ -1,9 +1,12 @@
 {
-  "latest": {
+  "_": {
     "name": "taywee/nu-plugin-bexpand",
     "source_uri": "https://codeberg.org/Taywee/nu-plugin-bexpand",
-    "nu_plugins": ["target/release/nu_plugin_bexpand"],
+    "nu_plugins": [
+      "target/release/nu_plugin_bexpand"
+    ],
     "build_command": "cargo build --release",
     "package_format": "numng"
-  }
+  },
+  "latest": {}
 }

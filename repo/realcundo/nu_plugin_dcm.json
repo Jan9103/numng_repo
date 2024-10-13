@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "realcundo/nu_plugin_dcm",
-  "source_uri": "https://github.com/realcundo/nu_plugin_dcm",
-  "nu_plugins": ["target/release/nu_plugin_dcm"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "realcundo/nu_plugin_dcm",
+    "source_uri": "https://github.com/realcundo/nu_plugin_dcm",
+    "nu_plugins": [
+      "target/release/nu_plugin_dcm"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

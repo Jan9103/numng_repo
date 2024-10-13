@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "cablehead/nu_plugin_http",
-  "source_uri": "https://github.com/cablehead/nu_plugin_http",
-  "nu_plugins": ["target/release/nu_plugin_http"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "cablehead/nu_plugin_http",
+    "source_uri": "https://github.com/cablehead/nu_plugin_http",
+    "nu_plugins": [
+      "target/release/nu_plugin_http"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

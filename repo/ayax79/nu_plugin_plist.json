@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "ayax79/nu_plugin_plist",
-  "source_uri": "https://github.com/ayax79/nu_plugin_plist",
-  "nu_plugins": ["target/release/nu_plugin_plist"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "ayax79/nu_plugin_plist",
+    "source_uri": "https://github.com/ayax79/nu_plugin_plist",
+    "nu_plugins": [
+      "target/release/nu_plugin_plist"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

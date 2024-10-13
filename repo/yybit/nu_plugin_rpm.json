@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "yybit/nu_plugin_rpm",
-  "source_uri": "https://github.com/yybit/nu_plugin_rpm",
-  "nu_plugins": ["target/release/nu_plugin_rpm"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "yybit/nu_plugin_rpm",
+    "source_uri": "https://github.com/yybit/nu_plugin_rpm",
+    "nu_plugins": [
+      "target/release/nu_plugin_rpm"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

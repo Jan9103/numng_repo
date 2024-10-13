@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "cablehead/nu_plugin_from_sse",
-  "source_uri": "https://github.com/cablehead/nu_plugin_from_sse",
-  "nu_plugins": ["target/release/nu_plugin_from_sse"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "cablehead/nu_plugin_from_sse",
+    "source_uri": "https://github.com/cablehead/nu_plugin_from_sse",
+    "nu_plugins": [
+      "target/release/nu_plugin_from_sse"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}

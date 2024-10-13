@@ -1,7 +1,12 @@
-{"latest": {
-  "name": "hulthe/nu_plugin_msgpack",
-  "source_uri": "https://github.com/hulthe/nu_plugin_msgpack",
-  "nu_plugins": ["target/release/nu_plugin_msgpack"],
-  "build_command": "cargo build --release",
-  "package_format": "numng"
-}}
+{
+  "_": {
+    "name": "hulthe/nu_plugin_msgpack",
+    "source_uri": "https://github.com/hulthe/nu_plugin_msgpack",
+    "nu_plugins": [
+      "target/release/nu_plugin_msgpack"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {}
+}
