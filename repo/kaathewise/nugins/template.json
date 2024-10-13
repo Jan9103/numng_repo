@@ -1,0 +1,8 @@
+{"latest": {
+  "name": "kaathewise/nugins/template",
+  "source_uri": "https://codeberg.org/kaathewise/nugins",
+  "path_offset": "template",
+  "nu_plugins": ["target/release/nu_plugin_template"],
+  "build_command": "cargo build --release",
+  "package_format": "numng"
+}}

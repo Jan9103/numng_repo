@@ -1,0 +1,6 @@
+{"latest": {
+  "name": "armoredpony/nu-digital-rain",
+  "source_uri": "https://github.com/ArmoredPony/nu-digital-rain",
+  "bin": {"digital-rain": "digital-rain.nu"},
+  "package_format": "numng"
+}}
