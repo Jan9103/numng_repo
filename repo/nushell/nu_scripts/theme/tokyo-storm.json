@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/tokyo-storm",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "tokyo-storm.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

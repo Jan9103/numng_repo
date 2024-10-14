@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/oceanic-next",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "oceanic-next.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

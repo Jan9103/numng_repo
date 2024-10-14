@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/themes",
+    "package_format": "nupm",
+    "path_offset": "main/themes",
+    "source_uri": "https://github.com/nushell/nu_scripts"
+  },
+  "latest": {},
+  "git": {}
+}

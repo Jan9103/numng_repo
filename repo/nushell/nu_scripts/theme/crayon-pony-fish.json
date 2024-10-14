@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/crayon-pony-fish",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "crayon-pony-fish.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

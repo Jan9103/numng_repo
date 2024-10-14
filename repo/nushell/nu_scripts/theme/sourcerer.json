@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/sourcerer",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "sourcerer.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

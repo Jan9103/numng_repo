@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/equilibrium-gray-dark",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "equilibrium-gray-dark.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

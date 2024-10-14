@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/gruvbox-dark-hard",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "gruvbox-dark-hard.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

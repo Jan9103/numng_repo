@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/azu",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "azu.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/horizon-terminal-dark",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "horizon-terminal-dark.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

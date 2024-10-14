@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/vs-code-dark-plus",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "vs-code-dark-plus.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}

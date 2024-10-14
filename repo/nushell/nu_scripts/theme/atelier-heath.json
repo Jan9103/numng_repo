@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nu_scripts/theme/atelier-heath",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "source": "atelier-heath.nu"
+    },
+    "path_offset": "themes/nu-themes"
+  },
+  "git": {},
+  "latest": {}
+}
