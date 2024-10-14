@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/winget",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "winget-completions.nu"
+    },
+    "path_offset": "custom-completions/winget"
+  },
+  "git": {},
+  "latest": {}
+}

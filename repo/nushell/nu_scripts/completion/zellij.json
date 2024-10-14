@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/zellij",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "zellij-completions.nu"
+    },
+    "path_offset": "custom-completions/zellij"
+  },
+  "git": {},
+  "latest": {}
+}

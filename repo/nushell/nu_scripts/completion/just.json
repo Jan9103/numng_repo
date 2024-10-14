@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/just",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "just-completions.nu"
+    },
+    "path_offset": "custom-completions/just"
+  },
+  "git": {},
+  "latest": {}
+}

@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/rg",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "rg-completions.nu"
+    },
+    "path_offset": "custom-completions/rg"
+  },
+  "git": {},
+  "latest": {}
+}

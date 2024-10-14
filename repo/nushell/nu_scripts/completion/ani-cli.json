@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/ani-cli",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "ani-cli-completions.nu"
+    },
+    "path_offset": "custom-completions/ani-cli"
+  },
+  "git": {},
+  "latest": {}
+}

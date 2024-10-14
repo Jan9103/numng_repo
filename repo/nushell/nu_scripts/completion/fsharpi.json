@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/fsharpi",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "fsharpi-completions.nu"
+    },
+    "path_offset": "custom-completions/fsharpi"
+  },
+  "git": {},
+  "latest": {}
+}

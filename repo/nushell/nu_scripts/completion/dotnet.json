@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/dotnet",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "dotnet-completions.nu"
+    },
+    "path_offset": "custom-completions/dotnet"
+  },
+  "git": {},
+  "latest": {}
+}

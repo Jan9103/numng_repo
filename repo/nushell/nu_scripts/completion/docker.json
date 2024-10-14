@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/docker",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "docker-completions.nu"
+    },
+    "path_offset": "custom-completions/docker"
+  },
+  "git": {},
+  "latest": {}
+}

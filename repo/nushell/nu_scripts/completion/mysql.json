@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/completion/mysql",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {
+      "use_all": "mysql-completions.nu"
+    },
+    "path_offset": "custom-completions/mysql"
+  },
+  "git": {},
+  "latest": {}
+}
