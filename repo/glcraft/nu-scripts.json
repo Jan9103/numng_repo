@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "glcraft/nu-scripts",
+    "source_uri": "https://github.com/glcraft/nu-scripts",
+    "package_format": "numng",
+    "shell_config": {"use": ["utils.nu", "openai.nu"]}
+  },
+  "latest": {},
+  "git": {}
+}

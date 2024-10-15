@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "jalonwong/nushell-prompt",
+    "source_uri": "https://github.com/jalonwong/nushell-prompt",
+    "package_format": "numng",
+    "shell_config": {"source": "prompt.nu"},
+  },
+  "git": {},
+  "latest": {}
+}

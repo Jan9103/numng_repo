@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "siph/quick-mark",
+    "source_uri": "https://github.com/siph/quick-mark",
+    "package_format": "numng",
+    "bin": {"quick-mark": "quick-mark.nu"}
+  },
+  "latest": {},
+  "git": {}
+}

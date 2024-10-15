@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "wybxc/nu_scripts/conda-comp",
+    "source_uri": "https://github.com/wybxc/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {"use_all": "completions/condo-comp.nu"}
+  },
+  "latest": {},
+  "git": {}
+}

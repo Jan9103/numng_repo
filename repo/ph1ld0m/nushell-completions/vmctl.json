@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "ph1ld0m/nushell-completions/vmctl",
+    "source_uri": "https://github.com/wybxc/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {"use": "vmctl.nu"}
+  },
+  "latest": {},
+  "git": {}
+}

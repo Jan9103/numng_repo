@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "ph1ld0m/nushell-snippets",
+    "source_uri": "https://github.com/wybxc/nushell-snippets",
+    "package_format": "numng",
+    "shell_config": {"use_all": "snippets"}
+  },
+  "latest": {},
+  "git": {}
+}

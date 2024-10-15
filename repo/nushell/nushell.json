@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "nushell/nushell",
+    "source_uri": "https://github.com/nushell/nushell",
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    "bin": {"nu": "target/release/nu"}
+  },
+  "0.98.0": {"git_ref": "0.98.0"}
+  "0.97.1": {"git_ref": "0.97.1"},
+  "0.97.0": {"git_ref": "0.97.0"},
+  "git": {}
+}

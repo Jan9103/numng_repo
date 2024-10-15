@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "wybxc/nu_scripts/jvms",
+    "source_uri": "https://github.com/wybxc/nu_scripts",
+    "package_format": "numng",
+    "shell_config": {"use_all": "jvms.nu"}
+  },
+  "latest": {},
+  "git": {}
+}
