@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "amtoine/tmux-sessionizer",
+    "source_uri": "https://github.com/amtoine/tmux-sessionizer",
+    "package_format": "nupm"
+  },
+  "0.1.0": {"git_ref": "18f5cef534b8b494e4dee645e453231dd5d1bc4c"},
+  "latest": {},
+  "git": {}
+}
