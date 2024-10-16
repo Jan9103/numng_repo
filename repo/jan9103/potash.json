@@ -4,6 +4,7 @@
     "source_uri": "https://github.com/Jan9103/potash",
     "package_format": "numng"
   },
+  "0.0.2": {"git_ref": "v0.0.2"},
   "0.0.1": {"git_ref": "v0.0.1"},
   "git": {}
 }
