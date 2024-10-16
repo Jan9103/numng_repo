@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "photonbursted/nu_plugin_vec",
+    "source_uri": "https://github.com/photonbursted/nu_plugin_vec",
+    "nu_plugins": ["target/release/nu_plugin_vec"],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "v1.0.0": {"git_ref": "v1.0.0"},
+  "git": {}
+}
