@@ -5,7 +5,7 @@ use std assert
 def main [] {
   ^fd -e json | lines | each {|file|
     print $"checking ($file)"
-    let entry = (open $file)
+    let entry = (open --raw $file | from json --strict)
     let fallback = ($entry | get -i "_" | default {})
     #print $"FALLBACK: ($fallback | to json --raw)"
     $entry
