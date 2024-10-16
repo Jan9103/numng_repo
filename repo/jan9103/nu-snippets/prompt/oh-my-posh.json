@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "jan9103/nu-snippets/prompt/oh-my-posh",
+    "source_uri": "https://github.com/Jan9103/nu-snippets",
+    "shell_config": {"source_env": "prompt/oh-my-posh.nu"},
+    "package_format": "numng"
+  },
+  "1.0.0": {"git_ref": "cb1b2411591ca01dda7e96a22a8fa59158d92a6e"},
+  "git": {}
+}

@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "jan9103/nu-snippets/integration/carapace",
+    "source_uri": "https://github.com/Jan9103/nu-snippets",
+    "shell_config": {"source_env": "integration/carapace.nu"},
+    "package_format": "numng"
+  },
+  "1.0.0": {"git_ref": "33d72659622031bbed2c06058bd89c62a556e03a"},
+  "git": {}
+}
