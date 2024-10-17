@@ -1,0 +1,9 @@
+{
+  "_": {
+    "name": "jan9103/nagoya",
+    "source_uri": "https://github.com/Jan9103/nagoya",
+    "package_format": "numng"
+  },
+  "1.0.0": {"git_ref": "f209e2a8405ccc5a40e9ea50b1c20f2a7ea2d885"},
+  "git": {}
+}
