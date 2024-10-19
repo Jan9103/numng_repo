@@ -8,9 +8,7 @@
     "build_command": "cargo build --release",
     "package_format": "numng"
   },
-  "latest": {},
-  "0.4.0": {
-    "git_ref": "v0.4.0"
-  },
+  "0.5.0": {"git_ref": "v0.5.0"},
+  "0.4.0": {"git_ref": "v0.4.0"},
   "git": {}
 }
