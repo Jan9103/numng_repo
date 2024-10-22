@@ -21,6 +21,7 @@ def github_get_latest_tag [repo_url: string]: nothing -> string {
     http get -H [
       "Accept" "application/vnd.github+json"
       "X-GitHub-Api-Version" "2022-11-28"
+      "User-Agent" "numng_repo upstream update finder <https://github.com/Jan9103/numng_repo/blob/main/find_upstream_updates.nu>"
     ] $'https://api.github.com/repos/($parsed.author)/($parsed.repo)/git/matching-refs/tags'
     | get ref
     | sort --natural
