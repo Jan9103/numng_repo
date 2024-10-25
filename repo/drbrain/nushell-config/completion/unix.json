@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "drbrain/nushell-config/completion/unix",
+    "source_uri": "https://github.com/drbrain/nushell-config",
+    "shell_config": {"use_all": "completion/unix.nu"},
+    "package_format": "numng"
+  },
+  "latest": {},
+  "git": {}
+}

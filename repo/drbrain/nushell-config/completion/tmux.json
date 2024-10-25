@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "drbrain/nushell-config/completion/tmux",
+    "source_uri": "https://github.com/drbrain/nushell-config",
+    "shell_config": {"use": "completion/tmux.nu"},
+    "package_format": "numng"
+  },
+  "latest": {},
+  "git": {}
+}
