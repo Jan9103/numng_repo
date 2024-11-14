@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nu_scripts/theme/hipster-green",
+    "name": "nushell/nu_scripts/theme/hipster-green",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "package_format": "numng",
     "shell_config": {

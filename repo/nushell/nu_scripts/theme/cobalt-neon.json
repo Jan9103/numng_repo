@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nu_scripts/theme/cobalt-neon",
+    "name": "nushell/nu_scripts/theme/cobalt-neon",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "package_format": "numng",
     "shell_config": {

@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nu_scripts/theme/blazer",
+    "name": "nushell/nu_scripts/theme/blazer",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "package_format": "numng",
     "shell_config": {

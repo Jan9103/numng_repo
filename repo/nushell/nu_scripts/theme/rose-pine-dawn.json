@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nu_scripts/theme/rose-pine-dawn",
+    "name": "nushell/nu_scripts/theme/rose-pine-dawn",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "package_format": "numng",
     "shell_config": {

@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nu_scripts/theme/jup",
+    "name": "nushell/nu_scripts/theme/jup",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "package_format": "numng",
     "shell_config": {

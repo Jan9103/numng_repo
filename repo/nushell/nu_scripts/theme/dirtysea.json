@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nu_scripts/theme/dirtysea",
+    "name": "nushell/nu_scripts/theme/dirtysea",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "package_format": "numng",
     "shell_config": {

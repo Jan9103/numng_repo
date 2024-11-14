@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nu_scripts/theme/yachiyo",
+    "name": "nushell/nu_scripts/theme/yachiyo",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "package_format": "numng",
     "shell_config": {
