@@ -2,8 +2,15 @@
   "_": {
     "name": "drbrain/nushell-config/completion/rsync",
     "source_uri": "https://github.com/drbrain/nushell-config",
-    "shell_config": {"use": "completion/rsync.nu"},
-    "package_format": "numng"
+    "shell_config": {
+      "use": "completion/rsync.nu"
+    },
+    "package_format": "numng",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "latest": {},
   "git": {}

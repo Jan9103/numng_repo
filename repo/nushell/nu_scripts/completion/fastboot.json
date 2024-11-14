@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "fastboot-completions.nu"
     },
-    "path_offset": "custom-completions/fastboot"
+    "path_offset": "custom-completions/fastboot",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

@@ -3,7 +3,10 @@
     "name": "amtoine/scripts/nu-monitor-manager",
     "source_uri": "https://github.com/amtoine/scripts",
     "path_offset": "nu-monitor-manager",
-    "package_format": "nupm"
+    "package_format": "nupm",
+    ":nupm_name": "nu-monitor-manager",
+    ":description": "manage your monitors from Nushell",
+    ":tags": ["bin"]
   },
   "latest": {},
   "git": {}

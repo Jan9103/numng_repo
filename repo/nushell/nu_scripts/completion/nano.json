@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "nano-completions.nu"
     },
-    "path_offset": "custom-completions/nano"
+    "path_offset": "custom-completions/nano",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

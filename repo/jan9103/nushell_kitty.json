@@ -2,7 +2,10 @@
   "_": {
     "name": "jan9103/nushell_kitty",
     "source_uri": "https://github.com/Jan9103/nushell_kitty",
-    "package_format": "packer.nu"
+    "package_format": "packer.nu",
+    ":description": "Integration and tab completion regarding the kitty terminal",
+    ":tags": ["shell", "config"],
+    ":status": "archived"
   },
   "latest": {},
   "git": {}

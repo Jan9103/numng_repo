@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "btm-completions.nu"
     },
-    "path_offset": "custom-completions/btm"
+    "path_offset": "custom-completions/btm",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "toipe-completions.nu"
     },
-    "path_offset": "custom-completions/toipe"
+    "path_offset": "custom-completions/toipe",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

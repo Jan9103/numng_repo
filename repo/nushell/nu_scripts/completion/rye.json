@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "rye-completions.nu"
     },
-    "path_offset": "custom-completions/rye"
+    "path_offset": "custom-completions/rye",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

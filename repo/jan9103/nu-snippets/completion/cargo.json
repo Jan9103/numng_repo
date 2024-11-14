@@ -2,9 +2,19 @@
   "_": {
     "name": "jan9103/nu-snippets/completion/cargo",
     "source_uri": "https://github.com/Jan9103/nu-snippets",
-    "shell_config": {"use": "completion/cargo.nu"},
-    "package_format": "numng"
+    "shell_config": {
+      "use": "completion/cargo.nu"
+    },
+    "package_format": "numng",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ],
+    ":description": "Tab completion for cargo"
   },
-  "0.1.0": {"git_ref": "2a5105749a2c39a10ff0526ae2ae734136ec6cdc"},
+  "0.1.0": {
+    "git_ref": "2a5105749a2c39a10ff0526ae2ae734136ec6cdc"
+  },
   "git": {}
 }

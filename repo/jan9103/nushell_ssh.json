@@ -2,7 +2,10 @@
   "_": {
     "name": "jan9103/nushell_ssh",
     "source_uri": "https://github.com/Jan9103/nushell_ssh",
-    "package_format": "packer.nu"
+    "package_format": "packer.nu",
+    ":description": "Tab completion for ssh. Superseeded by jan9103/nu-snippets/completion/ssh.",
+    ":tags": ["shell", "config", "completion"],
+    ":status": "archived"
   },
   "latest": {},
   "git": {}

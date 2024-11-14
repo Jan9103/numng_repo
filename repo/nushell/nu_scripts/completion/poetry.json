@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "poetry-completions.nu"
     },
-    "path_offset": "custom-completions/poetry"
+    "path_offset": "custom-completions/poetry",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

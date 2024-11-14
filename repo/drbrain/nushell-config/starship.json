@@ -3,7 +3,8 @@
     "name": "drbrain/nushell-config/starship",
     "source_uri": "https://github.com/drbrain/nushell-config",
     "shell_config": {"source": "starship.nu"},
-    "package_format": "numng"
+    "package_format": "numng",
+    ":tags": ["shell", "config", "completion"]
   },
   "latest": {},
   "git": {}

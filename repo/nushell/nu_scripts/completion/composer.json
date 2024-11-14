@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "composer-completions.nu"
     },
-    "path_offset": "custom-completions/composer"
+    "path_offset": "custom-completions/composer",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

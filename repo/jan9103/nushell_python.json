@@ -2,7 +2,10 @@
   "_": {
     "name": "jan9103/nushell_python",
     "source_uri": "https://github.com/Jan9103/nushell_python",
-    "package_format": "packer.nu"
+    "package_format": "packer.nu",
+    ":description": "All kinds of python related completions and integration (flake8, mypy, ruff, pip, etc). Superseeded by multiple jan9103/nu-snippets/* packages",
+    ":tags": ["shell", "config", "completion"],
+    ":status": "archived"
   },
   "latest": {},
   "git": {}

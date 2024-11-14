@@ -3,7 +3,9 @@
     "name": "jan9103/nu-snippets/integration/tmux_attoattach",
     "source_uri": "https://github.com/Jan9103/nu-snippets",
     "shell_config": {"source_env": "integration/tmux_autoattach.nu"},
-    "package_format": "numng"
+    "package_format": "numng",
+    ":tags": ["shell", "config"],
+    ":description": "Automatically attach a tmux session on open"
   },
   "1.0.0": {"git_ref": "2a5105749a2c39a10ff0526ae2ae734136ec6cdc"},
   "git": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "rustup-completions.nu"
     },
-    "path_offset": "custom-completions/rustup"
+    "path_offset": "custom-completions/rustup",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

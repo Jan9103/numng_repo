@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "croc-completions.nu"
     },
-    "path_offset": "custom-completions/croc"
+    "path_offset": "custom-completions/croc",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

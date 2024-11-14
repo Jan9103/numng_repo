@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "scoop-completions.nu"
     },
-    "path_offset": "custom-completions/scoop"
+    "path_offset": "custom-completions/scoop",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

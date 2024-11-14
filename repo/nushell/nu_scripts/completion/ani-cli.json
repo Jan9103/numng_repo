@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "ani-cli-completions.nu"
     },
-    "path_offset": "custom-completions/ani-cli"
+    "path_offset": "custom-completions/ani-cli",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

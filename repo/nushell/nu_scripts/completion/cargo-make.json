@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "cargo-make-completions.nu"
     },
-    "path_offset": "custom-completions/cargo-make"
+    "path_offset": "custom-completions/cargo-make",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

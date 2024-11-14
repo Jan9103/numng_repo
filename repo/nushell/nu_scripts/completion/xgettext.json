@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "xgettext-completions.nu"
     },
-    "path_offset": "custom-completions/xgettext"
+    "path_offset": "custom-completions/xgettext",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

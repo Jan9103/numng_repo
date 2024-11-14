@@ -3,7 +3,10 @@
     "name": "nushell/nu_scripts/themes",
     "package_format": "nupm",
     "path_offset": "main/themes",
-    "source_uri": "https://github.com/nushell/nu_scripts"
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    ":nupm_name": "nu-themes",
+    ":description": "A script to configure a theme and quickly switch between shell-themes",
+    ":tags": ["shell", "config"]
   },
   "latest": {},
   "git": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "vscode-completions.nu"
     },
-    "path_offset": "custom-completions/vscode"
+    "path_offset": "custom-completions/vscode",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "dotnet-completions.nu"
     },
-    "path_offset": "custom-completions/dotnet"
+    "path_offset": "custom-completions/dotnet",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "ttyper-completions.nu"
     },
-    "path_offset": "custom-completions/ttyper"
+    "path_offset": "custom-completions/ttyper",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

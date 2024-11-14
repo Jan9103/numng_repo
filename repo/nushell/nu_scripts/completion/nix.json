@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "nix-completions.nu"
     },
-    "path_offset": "custom-completions/nix"
+    "path_offset": "custom-completions/nix",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

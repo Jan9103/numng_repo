@@ -6,7 +6,10 @@
     "nu_libs": {
       "nu-git-manager": "nu-git-manager"
     },
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "A collection of Nushell tools to manage Git repositories",
+    ":nupm_name": "nu-git-manager",
+    ":tags": ["shell", "lib"]
   },
   "latest": {},
   "git": {}

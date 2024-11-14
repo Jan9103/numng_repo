@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "man-completions.nu"
     },
-    "path_offset": "custom-completions/man"
+    "path_offset": "custom-completions/man",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

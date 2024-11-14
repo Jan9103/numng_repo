@@ -3,7 +3,8 @@
     "name": "drbrain/nushell-config/tokyonight",
     "source_uri": "https://github.com/drbrain/nushell-config",
     "shell_config": {"source": "tokyonight.nu"},
-    "package_format": "numng"
+    "package_format": "numng",
+    ":tags": ["theme", "shell", "config"]
   },
   "latest": {},
   "git": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "make-completions.nu"
     },
-    "path_offset": "custom-completions/make"
+    "path_offset": "custom-completions/make",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

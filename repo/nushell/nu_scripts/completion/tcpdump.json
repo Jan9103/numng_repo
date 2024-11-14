@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "tcpdump-completions.nu"
     },
-    "path_offset": "custom-completions/tcpdump"
+    "path_offset": "custom-completions/tcpdump",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

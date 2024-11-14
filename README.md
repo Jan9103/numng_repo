@@ -1,6 +1,7 @@
 # Numng Repo
 
-This is a repository for [numng](https://github.com/Jan9103/numng).
+This is a repository for [numng](https://github.com/Jan9103/numng).  
+A overview / search can be found [here](https://jan9103.github.io/nushell_packages).
 
 Config snippet for adding the repository:
 
@@ -48,3 +49,9 @@ please open a issue or pull-request with all relevant information.
 
 Also: For most of the included packages this is NOT a official distribution method.
 Please keep this in mind before creating a issue upstream.
+
+### Repo specific extra tags
+
+* `:description`: A description
+* `:tags`: A list of tags (`shell`, `script`, `lib`, `config`, `bin`, `prompt`, `completion`)
+* `:status`: The project status (`alpha`, `active`, `archived`)

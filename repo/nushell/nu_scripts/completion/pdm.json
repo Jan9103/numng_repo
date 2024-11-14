@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "pdm-completions.nu"
     },
-    "path_offset": "custom-completions/pdm"
+    "path_offset": "custom-completions/pdm",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

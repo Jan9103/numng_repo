@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "winget-completions.nu"
     },
-    "path_offset": "custom-completions/winget"
+    "path_offset": "custom-completions/winget",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

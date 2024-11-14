@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "kw-completions.nu"
     },
-    "path_offset": "custom-completions/kw"
+    "path_offset": "custom-completions/kw",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

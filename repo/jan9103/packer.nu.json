@@ -2,7 +2,9 @@
   "_": {
     "name": "jan9103/packer.nu",
     "source_uri": "https://github.com/Jan9103/packer.nu",
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "The packer.nu standard library (for better compatability)",
+    ":tags": ["shell", "config", "lib"]
   },
   "latest": {},
   "git": {}

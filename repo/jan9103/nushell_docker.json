@@ -2,7 +2,10 @@
   "_": {
     "name": "jan9103/nushell_docker",
     "source_uri": "https://github.com/Jan9103/nushell_docker",
-    "package_format": "packer.nu"
+    "package_format": "packer.nu",
+    ":description": "Tab completion and parsing of docker commands. Superseeded by jan9103/nu-snippets/completion/docker",
+    ":tags": ["shell", "config", "completion"],
+    ":status": "archived"
   },
   "latest": {},
   "git": {}

@@ -2,7 +2,9 @@
   "_": {
     "name": "jan9103/bencode.nu",
     "source_uri": "https://github.com/Jan9103/bencode.nu",
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "De- and Encode functions for bencode (aka torrent files)",
+    ":tags": ["lib", "script"]
   },
   "latest": {},
   "git": {}

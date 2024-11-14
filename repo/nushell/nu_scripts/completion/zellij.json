@@ -6,7 +6,13 @@
     "shell_config": {
       "use_all": "zellij-completions.nu"
     },
-    "path_offset": "custom-completions/zellij"
+    "path_offset": "custom-completions/zellij",
+    ":nupm_name": "nu-zellij",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

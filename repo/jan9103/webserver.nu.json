@@ -2,7 +2,9 @@
   "_": {
     "name": "jan9103/webserver.nu",
     "source_uri": "https://github.com/Jan9103/webserver.nu",
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "A library for creating http webservers with a nu-script backend",
+    ":tags": ["script", "lib"]
   },
   "1.2.1": {"git_ref": "v1.2.1"},
   "1.2.0": {"git_ref": "v1.2.0"},

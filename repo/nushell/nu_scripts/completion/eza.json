@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "eza-completions.nu"
     },
-    "path_offset": "custom-completions/eza"
+    "path_offset": "custom-completions/eza",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

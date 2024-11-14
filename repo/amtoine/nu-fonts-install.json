@@ -2,7 +2,10 @@
   "_": {
     "name": "amtoine/nu-fonts-install",
     "source_uri": "https://github.com/amtoine/nu-fonts-install",
-    "package_format": "nupm"
+    "package_format": "nupm",
+    ":nupm_name": "nu-fonts-install",
+    ":description": "A Nushell script to install fonts",
+    ":tags": ["bin"]
   },
   "latest": {},
   "git": {}

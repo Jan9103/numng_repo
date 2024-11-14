@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "mix-completions.nu"
     },
-    "path_offset": "custom-completions/mix"
+    "path_offset": "custom-completions/mix",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

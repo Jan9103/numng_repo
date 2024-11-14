@@ -2,7 +2,10 @@
   "_": {
     "name": "amtoine/nu-discord-update",
     "source_uri": "https://github.com/amtoine/nu-discord-update",
-    "package_format": "nupm"
+    "package_format": "nupm",
+    ":nupm_name": "nu-discord-name",
+    ":description": "A Nushell script to update the Discord client manually",
+    ":tags": ["bin"]
   },
   "latest": {},
   "git": {}

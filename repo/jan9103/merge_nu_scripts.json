@@ -5,7 +5,9 @@
     "bin": {
       "merge_nu_scripts": "merge_nu_scripts.py"
     },
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "Merge a nushell project into a single file",
+    ":tags": ["bin", "script"]
   },
   "latest": {},
   "git": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "pytest-completions.nu"
     },
-    "path_offset": "custom-completions/pytest"
+    "path_offset": "custom-completions/pytest",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

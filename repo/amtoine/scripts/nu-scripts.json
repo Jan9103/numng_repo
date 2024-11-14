@@ -3,7 +3,10 @@
     "name": "amtoine/scripts/nu-scripts",
     "source_uri": "https://github.com/amtoine/scripts",
     "path_offset": "nu-scripts",
-    "package_format": "nupm"
+    "package_format": "nupm",
+    ":description": "The collection of nushell scripts for GOATs",
+    ":nupm_name": "nu-scripts",
+    ":tags": ["lib", "shell"]
   },
   "latest": {},
   "git": {}

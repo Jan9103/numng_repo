@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "gh-completions.nu"
     },
-    "path_offset": "custom-completions/gh"
+    "path_offset": "custom-completions/gh",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}

@@ -6,7 +6,12 @@
     "shell_config": {
       "use_all": "fsharpc-completions.nu"
     },
-    "path_offset": "custom-completions/fsharpc"
+    "path_offset": "custom-completions/fsharpc",
+    ":tags": [
+      "shell",
+      "config",
+      "completion"
+    ]
   },
   "git": {},
   "latest": {}
