@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "fancy-whale/nualiastips",
+    "source_uri": "https://github.com/fancy-whale/nualiastips",
+    "package_format": "numng",
+    "shell_config": {"source": "nualiastips.nu"}
+  },
+  "git": {},
+  "latest": {}
+}
