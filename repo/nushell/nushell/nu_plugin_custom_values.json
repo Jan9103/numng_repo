@@ -1,0 +1,14 @@
+{
+  "_": {
+    "name": "nushell/nushell/nu_plugin_custom_values",
+    "path_offset": "crates/nu_plugin_custom_values",
+    "source_uri": "https://github.com/nushell/nushell",
+    "nu_plugins": [
+      "target/release/nu_plugin_custom_values"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "0.100.0": {"git_ref": "0.100.0"},
+  "git": {}
+}
