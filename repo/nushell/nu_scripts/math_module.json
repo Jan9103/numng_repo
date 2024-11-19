@@ -6,7 +6,8 @@
     "nu_libs": {
       "math_functions.nu": "math_functions.nu"
     },
-    "package_format": "numng"
+    "package_format": "numng",
+    ":tags": ["lib", "script"]
   },
   "latest": {},
   "git": {}

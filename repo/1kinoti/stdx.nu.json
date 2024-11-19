@@ -5,7 +5,8 @@
     "nu_libs": {
       "stdx": "stdx"
     },
-    "package_format": "numng"
+    "package_format": "numng",
+    ":tags": ["lib", "script"]
   },
   "latest": {},
   "git": {}

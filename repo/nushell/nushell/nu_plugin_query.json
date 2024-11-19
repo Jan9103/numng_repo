@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nushell/nu_plugin_query",
+    "name": "nushell/nushell/nu_plugin_query",
     "path_offset": "crates/nu_plugin_query",
     "source_uri": "https://github.com/nushell/nushell",
     "nu_plugins": [
