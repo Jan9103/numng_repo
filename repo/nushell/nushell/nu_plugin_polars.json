@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nushell/nushell/polars",
+    "name": "nushell/nushell/nu_plugin_polars",
     "path_offset": "crates/nu_plugin_polars",
     "source_uri": "https://github.com/nushell/nushell",
     "nu_plugins": [

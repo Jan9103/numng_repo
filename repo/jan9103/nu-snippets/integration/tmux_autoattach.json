@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "jan9103/nu-snippets/integration/tmux_attoattach",
+    "name": "jan9103/nu-snippets/integration/tmux_autoattach",
     "source_uri": "https://github.com/Jan9103/nu-snippets",
     "shell_config": {"source_env": "integration/tmux_autoattach.nu"},
     "package_format": "numng",

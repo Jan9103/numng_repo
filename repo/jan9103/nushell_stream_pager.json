@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "jan9103/nushell_streampager",
+    "name": "jan9103/nushell_stream_pager",
     "source_uri": "https://github.com/Jan9103/nushell_stream_pager",
     "package_format": "packer.nu",
     ":description": "Completion, workarounds, etc for stream pager (sp)",
