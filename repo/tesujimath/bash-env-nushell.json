@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "tesujimath/bash-env-nushell",
+    "source_uri": "https://github.com/tesujimath/bash-env-nushell",
+    "shell_config": {"use": "bash-env.nu"},
+    "package_format": "numng",
+    ":description": "Bash environment for Nushell"
+  },
+  "0.17.2": {"git_ref": "0.17.2"},
+  "git": {}
+}

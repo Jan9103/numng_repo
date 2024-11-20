@@ -1,0 +1,14 @@
+{
+  "_": {
+    "name": "fdncred/nu_plugin_dt",
+    "source_uri": "https://github.com/fdncred/nu_plugin_dt",
+    "nu_plugins": [
+      "target/release/nu_plugin_dt"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "A nushell datetime plugin that uses the jiff crate"
+  },
+  "latest": {},
+  "git": {}
+}

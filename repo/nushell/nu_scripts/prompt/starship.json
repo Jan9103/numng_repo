@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "nushell/nu_scripts/prompt/starship",
+    "source_uri": "https://github.com/nushell/nu_scripts",
+    "path_offset": "modules/prompt",
+    "shell_config": {"src": "starship.nu"},
+    "package_format": "numng",
+    ":tags": ["shell", "config", "prompt"]
+  },
+  "latest": {},
+  "git": {}
+}

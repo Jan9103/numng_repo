@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "fdncred/nu_plugin_strutils",
+    "source_uri": "https://github.com/fdncred/nu_plugin_strutils",
+    "nu_plugins": [
+      "target/release/nu_plugin_strutils"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "0.7.0": {"git_ref": "v0.7.0"},
+  "git": {}
+}

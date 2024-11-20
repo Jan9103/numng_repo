@@ -1,0 +1,14 @@
+{
+  "_": {
+    "name": "fdncred/nu_plugin_bg",
+    "source_uri": "https://github.com/fdncred/nu_plugin_bg",
+    "nu_plugins": [
+      "target/release/nu_plugin_bg"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "This is a nushell pluging that attempts to start programs in the background."
+  },
+  "latest": {},
+  "git": {}
+}
