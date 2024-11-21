@@ -6,8 +6,9 @@
     ":description": "A multithreading helper / utility library (mostly for cross-process data)",
     ":tags": ["lib", "script"]
   },
-  "1.0.2": {"git_ref": "99421ed5bdc2875b9d860b6c9715f26df1ca3203"},
-  "1.0.1": {"git_ref": "12bccce743251fc12fb34d97ca6e3336f98a2706"},
-  "1.0.0": {"git_ref": "f209e2a8405ccc5a40e9ea50b1c20f2a7ea2d885"},
+  "1.0.3": {"git_ref": "v1.0.3"},
+  "1.0.2": {"git_ref": "v1.0.2"},
+  "1.0.1": {"git_ref": "v1.0.1"},
+  "1.0.0": {"git_ref": "v1.0.0"},
   "git": {}
 }
