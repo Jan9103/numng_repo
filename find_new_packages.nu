@@ -1,6 +1,6 @@
 def main [] {
   print (
-    http get -H ["Accept" "application/vnd.github+json" "X-GitHub-Api-Version" "2022-11-28"] 'https://api.github.com/search/repositories?q=language:nushell&sort=updated'
+    http get -H ["Accept" "application/vnd.github+json" "X-GitHub-Api-Version" "2022-11-28"] 'https://api.github.com/search/repositories?q=language:nushell&sort=updated&per_page=100'
     | get items
     | select full_name description created_at updated_at
     | where full_name !~ 'dot.?files|Jan9103'  # i wont add dotfiles and i know my own repos
