@@ -6,7 +6,8 @@
       "stdx": "stdx"
     },
     "package_format": "numng",
-    ":tags": ["lib", "script"]
+    ":tags": ["lib", "script"],
+    ":description": "extensions for nu std"
   },
   "latest": {},
   "git": {}

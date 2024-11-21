@@ -2,11 +2,11 @@
   "_": {
     "name": "drbrain/nu_plugin_prometheus",
     "source_uri": "https://github.com/drbrain/nu_plugin_prometheus",
-    "nu_plugins": [
-      "target/release/nu_plugin_prometheus"
-    ],
+    "nu_plugins": ["target/release/nu_plugin_prometheus"],
     "build_command": "cargo build --release",
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "A nushell plugin for querying prometheus",
+    ":tags": ["plugin"]
   },
   "0.6.0": {"git_ref": "v0.6.0"},
   "0.5.0": {"git_ref": "v0.5.0"},

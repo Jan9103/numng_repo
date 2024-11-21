@@ -2,12 +2,12 @@
   "_": {
     "name": "amtoine/nu_plugin_explore",
     "source_uri": "https://github.com/amtoine/nu_plugin_explore",
-    "nu_plugins": [
-      "target/release/nu_plugin_explore"
-    ],
+    "nu_plugins": ["target/release/nu_plugin_explore"],
     "build_command": "cargo build --release",
     "package_format": "numng",
-    ":nupm_name": "nu_plugin_explore"
+    ":nupm_name": "nu_plugin_explore",
+    ":description": "A fast structured data explorer for Nushell.",
+    ":tags": ["plugin", "shell"]
   },
   "0.99.1": {"git_ref": "0.99.1"},
   "0.98.0": {"git_ref": "0.98.0"},

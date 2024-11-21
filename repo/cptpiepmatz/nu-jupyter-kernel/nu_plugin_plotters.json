@@ -2,12 +2,12 @@
   "_": {
     "name": "cptpiepmatz/nu-jupyter-kernel/nu_plugin_plotters",
     "source_uri": "https://github.com/cptpiepmatz/nu-jupyter-kernel",
-    "nu_plugins": [
-      "target/release/nu_plugin_plotters"
-    ],
+    "nu_plugins": ["target/release/nu_plugin_plotters"],
     "build_command": "cargo build --release",
     "package_format": "numng",
-    "path_offset": "crates/nu_plugin_plotters"
+    "path_offset": "crates/nu_plugin_plotters",
+    ":description": "A nushell plugin for plotting charts.",
+    ":tags": ["lib", "plugin"]
   },
   "latest": {},
   "git": {}

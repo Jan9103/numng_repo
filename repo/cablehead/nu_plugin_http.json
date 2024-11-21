@@ -2,11 +2,11 @@
   "_": {
     "name": "cablehead/nu_plugin_http",
     "source_uri": "https://github.com/cablehead/nu_plugin_http",
-    "nu_plugins": [
-      "target/release/nu_plugin_http"
-    ],
+    "nu_plugins": ["target/release/nu_plugin_http"],
     "build_command": "cargo build --release",
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "A webserver library similar to jan9103/webserver.nu",
+    ":tags": ["plugin", "lib", "script"]
   },
   "latest": {},
   "git": {}

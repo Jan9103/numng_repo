@@ -3,11 +3,9 @@
     "name": "bbonsign/me.nu",
     "source_uri": "https://github.com/bbonsign/me.nu",
     "package_format": "numng",
-    "shell_config": {
-      "source": [
-        "me.nu"
-      ]
-    }
+    "shell_config": {"source": ["me.nu"]},
+    ":description": "Customizable quick Nushell menu inspired by WhichKey",
+    ":tags": ["shell", "config"]
   },
   "latest": {},
   "git": {}

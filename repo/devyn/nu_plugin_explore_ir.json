@@ -2,9 +2,7 @@
   "_": {
     "name": "devyn/nu_plugin_explore_ir",
     "source_uri": "https://github.com/devyn/nu_plugin_explore_ir",
-    "nu_plugins": [
-      "target/release/nu_plugin_explore_ir"
-    ],
+    "nu_plugins": ["target/release/nu_plugin_explore_ir"],
     "build_command": "cargo build --release",
     "package_format": "numng",
     ":description": "This is a fancy viewer for internal representation (IR) code in Nushell.",

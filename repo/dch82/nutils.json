@@ -3,7 +3,8 @@
     "name": "dch82/nutils",
     "source_uri": "https://github.com/dch82/nutils",
     "shell_config": {"source": "nutils.nu"},
-    "package_format": "numng"
+    "package_format": "numng",
+    ":description": "Utilities for Nu (*NIX only)"
   },
   "latest": {},
   "git": {}

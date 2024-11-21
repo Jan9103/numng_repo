@@ -2,11 +2,10 @@
   "_": {
     "name": "amtoine/nu_pager_help",
     "source_uri": "https://github.com/amtoine/nu-pager-help",
-    "package_format": "nupm"
+    "package_format": "nupm",
+    ":description": "A replacement for the builtin help command of Nushell, with paging for large help pages",
+    ":tags": ["shell"]
   },
-  "latest": {},
-  "1.0.0": {
-    "git_ref": "1.0.0"
-  },
+  "1.0.0": {"git_ref": "1.0.0"},
   "git": {}
 }

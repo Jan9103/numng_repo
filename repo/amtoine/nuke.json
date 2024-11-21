@@ -2,7 +2,9 @@
   "_": {
     "name": "amtoine/nuke",
     "source_uri": "https://github.com/amtoine/nuke",
-    "package_format": "nupm"
+    "package_format": "nupm",
+    ":description": "An explosive Nushell replacement for make and Makefiles",
+    ":tags": ["shell", "lib"]
   },
   "latest": {},
   "git": {}
