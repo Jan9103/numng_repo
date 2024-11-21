@@ -9,6 +9,7 @@
     "package_format": "numng",
     ":nupm_name": "nu_plugin_explore"
   },
+  "0.99.1": {"git_ref": "0.99.1"},
   "0.98.0": {"git_ref": "0.98.0"},
   "0.97.0": {"git_ref": "0.97.0"},
   "0.96.0": {"git_ref": "0.96.0"},
