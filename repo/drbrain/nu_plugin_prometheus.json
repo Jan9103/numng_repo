@@ -8,6 +8,7 @@
     ":description": "A nushell plugin for querying prometheus",
     ":tags": ["plugin"]
   },
+  "0.7.0": {"git_ref": "v0.7.0"},
   "0.6.0": {"git_ref": "v0.6.0"},
   "0.5.0": {"git_ref": "v0.5.0"},
   "0.4.0": {"git_ref": "v0.4.0"},
