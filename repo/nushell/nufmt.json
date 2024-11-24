@@ -1,0 +1,14 @@
+{
+  "_": {
+    "name": "nushell/nufmt",
+    "source_uri": "https://github.com/nushell/nufmt",
+    "build_command": "cargo build --release",
+    "bin": {"nufmt": "target/release/nufmt"},
+    "package_format": "numng",
+    ":description": "A formatter for nushell scripts",
+    ":status": "alpha",
+    ":tags": ["bin", "shell", "script"]
+  },
+  "latest": {},
+  "git": {}
+}
