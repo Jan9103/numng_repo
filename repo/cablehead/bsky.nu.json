@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "cablehead/bsky.nu",
+    "source_uri": "https://github.com/cablehead/bsky.nu",
+    ":description": "a tiny start on a Nushell wrapper for the bluesky api",
+    ":tags": ["lib", "script"],
+    "package_format": "numng",
+    "nu_libs": {"bsky.nu": "bsky.nu"}
+  },
+  "latest": {},
+  "git": {}
+}
