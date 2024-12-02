@@ -24,6 +24,7 @@ def github_get_latest_tag [repo_url: string]: nothing -> string {
       "User-Agent" "numng_repo upstream update finder <https://github.com/Jan9103/numng_repo/blob/main/find_upstream_updates.nu>"
     ] $'https://api.github.com/repos/($parsed.author)/($parsed.repo)/git/matching-refs/tags'
     | get ref
+    | str replace --all '_' '.'  # nu 0_5_0 is otherwise newer than 0.100.0 (yay mixed semver)
     | sort --natural
     | last
     | parse 'refs/tags/{tag}'
