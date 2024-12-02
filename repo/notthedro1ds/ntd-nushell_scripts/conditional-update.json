@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "notthedr01ds/ntd-nushell_scripts/conditional-update",
+    "source_uri": "https://github.com/notthedr01ds/ntd-nushell_scripts",
+    "package_format": "numng",
+    "nu_libs": {"conditional-update.nu": "conditional-update/mod.nu"},
+    ":description": "update with a --where argument",
+    ":tags": ["lib"]
+  },
+  "latest": {},
+  "git": {}
+}

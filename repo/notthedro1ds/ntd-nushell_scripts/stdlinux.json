@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "notthedr01ds/ntd-nushell_scripts/stdlinux",
+    "source_uri": "https://github.com/notthedr01ds/ntd-nushell_scripts",
+    "shell_config": {"source": "stdLinux/stat.nu"},
+    "package_format": "numng",
+    ":description": "a parsed version of stat",
+    ":tags": ["shell", "config"]
+  },
+  "latest": {},
+  "git": {}
+}
