@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "simoniz0r/nutts",
+    "source_uri": "https://github.com/simoniz0r/nuTTS",
+    "bin": {"nutts": "nuTTS.nu"},
+    "package_format": "numng",
+    ":description": "fetch TTS from free services",
+    ":tags": ["bin"]
+  },
+  "latest": {},
+  "git": {}
+}
