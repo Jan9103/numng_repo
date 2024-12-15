@@ -1,6 +1,6 @@
 {
   "_": {
-    "name": "nushell/nu_scripts/math_module",
+    "name": "nushell/nu_scripts/modules/maths",
     "source_uri": "https://github.com/nushell/nu_scripts",
     "path_offset": "modules/maths",
     "nu_libs": {
