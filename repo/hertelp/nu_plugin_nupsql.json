@@ -1,0 +1,15 @@
+{
+  "_": {
+    "name": "hertelp/nu_plugin_nupsql",
+    "source_uri": "https://gitlab.com/HertelP/nu_plugin_nupsql",
+    "nu_plugins": [
+      "target/release/nu_plugin_nupsql"
+    ],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "A nushell plugin to query postgres databases.",
+    ":tags": ["plugin", "lib"]
+  },
+  "latest": {},
+  "git": {}
+}
