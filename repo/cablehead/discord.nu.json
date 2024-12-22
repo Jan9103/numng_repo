@@ -1,0 +1,17 @@
+{
+  "_": {
+    "name": "cablehead/discord.nu",
+    "source_uri": "https://github.com/cablehead/discord.nu",
+    "package_format": "numng",
+    "nu_libs": {
+      "discord.nu": "discord.nu"
+    },
+    "bin": {
+      "discord.nu-permissions": "intents/permissions.py",
+      "discord.nu-intents": "intents/intents.py",
+      "discord.nu-flags": "intents/flags.py"
+    }
+  },
+  "latest": {},
+  "git": {}
+}
