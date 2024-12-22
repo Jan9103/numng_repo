@@ -6,6 +6,7 @@
     ":description": "A replacement for the builtin help command of Nushell, with paging for large help pages",
     ":tags": ["shell"]
   },
+  "1.1.0": {"git_ref": "1.1.0"},
   "1.0.0": {"git_ref": "1.0.0"},
   "git": {}
 }
