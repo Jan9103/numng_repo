@@ -8,6 +8,7 @@
     "package_format": "numng",
     ":description": "Support for additional file-formats including eml, ics, ini, plist, and vcf."
   },
+  "0.101.0": {"git_ref": "0.101.0"},
   "0.100.0": {"git_ref": "0.100.0"},
   "0.99.0": {"git_ref": "0.99.0"},
   "0.98.0": {"git_ref": "0.98.0"},
