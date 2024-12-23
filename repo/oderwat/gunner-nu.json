@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "oderwat/gunner-nu",
+    "source_uri": "https://github.com/oderwat/gunner-nu",
+    "bin": {"gunner": "gunner.nu"},
+    "package_format": "numng",
+    ":description": "A simple Gleam code runner implemented as NuShell custom commands",
+    ":tags": ["bin", "shell"]
+  },
+  "latest": {},
+  "git": {}
+}
