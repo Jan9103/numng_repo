@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "kaathewise/nugins/endecode",
-    "source_uri": "https://codeberg.org/kaathewise/nugins",
+    "source_uri": "https://github.com/KAAtheWiseGit/nugins",
     "path_offset": "endecode",
     "nu_plugins": [
       "target/release/nu_plugin_endecode"

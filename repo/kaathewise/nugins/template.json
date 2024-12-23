@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "kaathewise/nugins/template",
-    "source_uri": "https://codeberg.org/kaathewise/nugins",
+    "source_uri": "https://github.com/KAAtheWiseGit/nugins",
     "path_offset": "template",
     "nu_plugins": [
       "target/release/nu_plugin_template"
