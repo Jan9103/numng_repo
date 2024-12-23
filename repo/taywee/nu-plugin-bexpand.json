@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "taywee/nu-plugin-bexpand",
-    "source_uri": "https://codeberg.org/Taywee/nu-plugin-bexpand",
+    "source_uri": "https://forge.axfive.net/Taylor/nu-plugin-bexpand",
     "nu_plugins": [
       "target/release/nu_plugin_bexpand"
     ],
