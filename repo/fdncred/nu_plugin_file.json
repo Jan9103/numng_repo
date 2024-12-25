@@ -9,6 +9,7 @@
     "package_format": "numng",
     ":description": "A nushell plugin that will inspect a file and return information based on it's magic number."
   },
+  "0.12.0": {"git_ref": "v0.12.0"},
   "0.11.0": {"git_ref": "v0.11.0"},
   "git": {}
 }
