@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "msdnicrosoft/jovial-nushell-theme",
+    "source_uri": "https://github.com/MSDNicrosoft/jovial-nushell-theme",
+    "shell_config": {"use": "jovial.nu"},
+    ":description": "A shell theme Jovial implemented in Nushell",
+    ":tags": ["prompt"],
+    "package_format": "numng"
+  },
+  "latest": {},
+  "git": {}
+}
