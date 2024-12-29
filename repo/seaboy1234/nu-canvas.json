@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "seaboy1234/nu-canvas",
+    "source_uri": "https://github.com/seaboy1234/nu-canvas",
+    "nu_libs": {"canvas.nu": "canvas.nu"},
+    "package_format": "numng",
+    ":description": "NuShell scripts for managing Canvas LMS instances",
+    ":tags": ["lib"]
+  },
+  "latest": {},
+  "git": {}
+}
