@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "windtail/nu_plugin_unzip",
+    "source_uri": "https://github.com/windtail/nu_plugin_unzip",
+    "nu_plugins": ["target/release/nu_plugin_unzip"],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "A nushell plugin for unzipping files.",
+    ":tags": ["plugin"]
+  },
+  "0.1.0": {"git_ref": "v0.1.0"},
+  "git": {}
+}
