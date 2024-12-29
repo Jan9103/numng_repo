@@ -4,12 +4,14 @@
     "source_uri": "https://github.com/Jan9103/nine",
     "package_format": "numng",
     ":description": "A forward compatability layer for nu aiming to reduce script-maintenance.",
-    ":tags": ["script", "lib"]
+    ":tags": ["script", "lib"],
+    ":status": "archived"
   },
-  "0.99.0": {"git_ref": "b67d5657f8ae78c51d10c1b7cba7a27d8f9b676c"},
-  "0.98.0": {"git_ref": "799dc1033a67e46e87a068bd3345fae664e874ea"},
-  "0.97.0": {"git_ref": "d8f9ad82a3ede9ab3b74b915c0dbe916daa9b86f"},
-  "0.96.0": {"git_ref": "344c4a1382fbad278cf5ca8e6646b78e9ed5b149"},
-  "0.95.0": {"git_ref": "2a35e71cd131afb692e6f12b148d3f4f7198476a"},
+  "0.100.0": {"git_ref": "nu0.100"},
+  "0.99.0": {"git_ref": "nu0.99"},
+  "0.98.0": {"git_ref": "nu0.98"},
+  "0.97.0": {"git_ref": "nu0.97"},
+  "0.96.0": {"git_ref": "nu0.96"},
+  "0.95.0": {"git_ref": "nu0.95"},
   "git": {}
 }
