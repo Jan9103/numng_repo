@@ -2,13 +2,18 @@ def main [] {
   cd repo
   for json_file in (^fd -e json | lines) {
     let json = (open $json_file)
-    if not ("latest" in $json) {
-      if $json._.source_uri =~ 'https://github.com/' {
-        let latest = (github_get_latest_tag $json._.source_uri)
-        if ($json | transpose k v | where $it.v.git_ref? == $latest) == [] {
-          print $'($json_file) has a new release: ($latest)'
-        }
-      }
+    if "latest" in $json {
+      continue
+    }
+    if ($json | get -i _.':status') == "archived" {
+      continue
+    }
+    if $json._.source_uri !~ '^https://github.com/' {
+      continue
+    }
+    let latest = (github_get_latest_tag $json._.source_uri)
+    if ($json | transpose k v | where $it.v.git_ref? == $latest) == [] {
+      print $'($json_file) has a new release: ($latest)'
     }
   }
 }
