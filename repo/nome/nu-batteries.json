@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "nome/nu-batteries",
+    "source_uri": "https://github.com/nome/nu-batteries",
+    "package_format": "numng",
+    "nu_libs": {"nu-batteries": "nu-batteries"},
+    ":description": "An extended standard library for nu"
+  },
+  "0.1.0": {"git_ref": "v0.1.0"},
+  "git": {}
+}
