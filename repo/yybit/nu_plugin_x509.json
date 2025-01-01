@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "yybit/nu_plugin_x509",
+    "source_uri": "https://github.com/yybit/nu_plugin_x509",
+    "nu_plugins": ["target/release/nu_plugin_x509"],
+    "build_command": "cargo build --release",
+    ":description": "A Nushell plugin for parsing and generating x509 certificates.",
+    "package_format": "numng"
+  },
+  "latest": {},
+  "git": {}
+}
