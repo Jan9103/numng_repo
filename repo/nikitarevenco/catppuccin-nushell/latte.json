@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "nikitarevenco/catppuccin-nushell/latte",
+    "source_uri": "https://github.com/NikitaRevenco/catppuccin-nushell",
+    "shell_config": {"source": "catppuccin_latte.nu"},
+    "package_format": "numng",
+    ":description": "Soothing pastel theme for nushell",
+    ":tags": ["theme", "config"]
+  },
+  "latest": {},
+  "git": {}
+}
