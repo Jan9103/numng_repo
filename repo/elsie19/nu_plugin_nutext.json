@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "elsie19/nu_plugin_nutext",
+    "source_uri": "https://github.com/elsie19/nu_plugin_nutext",
+    "nu_plugins": ["target/release/nu_plugin_nutext"],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "A library that brings gettext support to Nushell!"
+  },
+  "0.2.0": {"git_ref": "0.2.0"},
+  "git": {}
+}
