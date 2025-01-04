@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "rhdcode0x7c3/nu-ocaml",
+    "source_uri": "https://github.com/rhdCode0x7C3/nu-ocaml",
+    "package_format": "nupm",
+    ":description": "Nushell tools for OCaml programmers"
+  },
+  "latest": {},
+  "git": {}
+}
