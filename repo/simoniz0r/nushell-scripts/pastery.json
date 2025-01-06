@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "simoniz0r/nushell-scripts/pastery",
+    "source_uri": "https://github.com/simoniz0r/nushell-scripts",
+    "path_offset": "modules/pastery",
+    "config": {"use": "mod_pastery.nu"},
+    "package_format": "numng",
+    ":description": "pastery uploads stdin to pastery.net"
+  },
+  "latest": {},
+  "git": {}
+}
