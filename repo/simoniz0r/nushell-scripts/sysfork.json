@@ -3,7 +3,7 @@
     "name": "simoniz0r/nushell-scripts/sysfork",
     "source_uri": "https://github.com/simoniz0r/nushell-scripts",
     "path_offset": "modules/sysfork",
-    "config": {"use": "mod_sysfork.nu"},
+    "config": {"use_all": "mod_sysfork.nu"},
     "package_format": "numng",
     ":description": "sysfork manages nushell background processes using transient systemd services"
   },
