@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "jan9103/nu_plugin_nups2",
+    "source_uri": "https://github.com/jan9103/nups2",
+    "path_offset": "crates/nu_plugin_nups2",
+    "nu_plugins": ["target/release/nu_plugin_nups2"],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "planetside2 pack2 file-format support"
+  },
+  "0.101.0": {"git_ref": "nu_plugin_v0.101.0"},
+  "git": {}
+}
