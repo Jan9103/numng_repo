@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "jan9103/github-repo-backuper",
+    "source_uri": "https://github.com/Jan9103/github-repo-backuper",
+    "bin": {
+      "github-repo-backuper": "github-repo-backuper.py",
+      "github-repo-backuper-webui": "webui.nu"
+    }
+  },
+  "latest": {},
+  "git": {}
+}

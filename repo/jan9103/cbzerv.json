@@ -1,0 +1,14 @@
+{
+  "_": {
+    "name": "jan9103/cbzerv",
+    "source_uri": "https://github.com/Jan9103/cbzerv",
+    "bin": {
+      "cbzerv": "cbzerv.py",
+      "cbzerv-downloader-guya": "downloader/guya.py",
+      "cbzerv-downloader-peppercarrot": "downloader/peppercarrot.py",
+      "cbzerv-tools-cbz-optimizer": "tools/cbz_optimizer.nu"
+    }
+  },
+  "latest": {},
+  "git": {}
+}
