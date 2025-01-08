@@ -1,9 +1,0 @@
-{
-  "_": {
-    "name": "fj0r/docker.nu",
-    "source_uri": "https://github.com/fj0r/docker.nu",
-    "package_format": "nupm"
-  },
-  "latest": {},
-  "git": {}
-}

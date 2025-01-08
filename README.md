@@ -1,14 +1,17 @@
-# Numng Repo
+# Numng Repo - EXTRA
 
-This is a repository for [numng](https://github.com/Jan9103/numng).  
-A overview / search can be found [here](https://jan9103.github.io/nushell_packages).
+This is a repository for [numng](https://github.com/Jan9103/numng).
+
+This extra branch contains things, which are not really supposed to be managed by numng.  
+Mainly programs i use on my pc's and want to have automated updates for.  
+Do not expect any support of any kind.
 
 Config snippet for adding the repository:
 
 ```json
 {
   "registry": [
-    {"source_uri": "https://github.com/Jan9103/numng_repo", "package_format": "numng", "path_offset": "repo"}
+    {"source_uri": "https://github.com/Jan9103/numng_repo", "package_format": "numng", "path_offset": "repo", "git_ref": "extra"}
   ]
 }
 ```
@@ -49,9 +52,3 @@ please open a issue or pull-request with all relevant information.
 
 Also: For most of the included packages this is NOT a official distribution method.
 Please keep this in mind before creating a issue upstream.
-
-### Repo specific extra tags
-
-* `:description`: A description
-* `:tags`: A list of tags (`shell`, `script`, `lib`, `config`, `bin`, `prompt`, `completion`)
-* `:status`: The project status (`alpha`, `active`, `archived`)
