@@ -8,6 +8,7 @@
     ":description": "This is a fancy viewer for internal representation (IR) code in Nushell.",
     ":tags": ["plugin", "shell"]
   },
+  "0.6.0": {"git_ref": "0.6.0"},
   "0.5.0": {"git_ref": "0.5.0"},
   "git": {}
 }

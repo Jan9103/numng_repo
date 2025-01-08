@@ -8,6 +8,7 @@
     ":tags": ["shell", "plugin"],
     ":description": "This is a Nushell plugin called cassandra_query."
   },
+  "0.3.0": {"git_ref": "0.3.0"},
   "0.2.0": {"git_ref": "0.2.0"},
   "git": {}
 }

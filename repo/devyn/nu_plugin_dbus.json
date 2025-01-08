@@ -8,6 +8,7 @@
     ":tags": ["plugin"],
     ":description": "Nushell plugin for interacting with D-Bus"
   },
+  "0.14.0": {"git_ref": "0.14.0"},
   "0.13.0": {"git_ref": "0.13.0"},
   "git": {}
 }
