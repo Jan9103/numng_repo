@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "rex-sanchez/nushell_fmt",
+    "source_uri": "https://github.com/Rex-Sanchez/nushell_fmt",
+    "build_command": "cargo build --release",
+    "bin": {"nushell_fmt": "target/release/nushell_fmt"},
+    "package_format": "numng",
+    ":description": "A nushell formatter "
+  },
+  "latest": {},
+  "git": {}
+}
