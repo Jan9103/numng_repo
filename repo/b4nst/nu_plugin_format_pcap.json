@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "b4nst/nu_plugin_format_pcap",
+    ":description": "Nu plugin to parse pcap file",
+    "package_format": "numng",
+    "nu_plugins": ["target/release/nu_plugin_format_pcap"],
+    "build_command": "cargo build --release",
+    "source_uri": "https://github.com/b4nst/nu_plugin_format_pcap"
+  },
+  "0.1.0": {"git_ref": "v0.1.0"},
+  "git": {}
+}
