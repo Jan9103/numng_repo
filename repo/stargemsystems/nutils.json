@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "stargemsystems/nutils",
+    "source_uri": "https://github.com/StargemSystems/nutils",
+    ":description": "NuShell utility toolkit and standard library.",
+    "nu_libs": {"nutils": "."},
+    "package_format": "numng"
+  },
+  "latest": {"git_ref": "edge"},
+  "git": {"git_ref": "edge"}
+}
