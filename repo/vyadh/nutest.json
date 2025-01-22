@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "vyadh/nutest",
+    "source_uri": "https://github.com/vyadh/nutest",
+    "package_format": "nupm",
+    ":description": "A Nushell test framework."
+  },
+  "1.0.0": {"git_ref": "1.0.0"},
+  "git": {}
+}
