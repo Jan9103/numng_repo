@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "fdncred/nu_plugin_run_internal",
+    "source_uri": "https://github.com/fdncred/nu_plugin_run_internal",
+    "nu_plugins": ["target/release/nu_plugin_run_internal"],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "A nushell plugin to run internal commands"
+  },
+  "latest": {},
+  "git": {}
+}
