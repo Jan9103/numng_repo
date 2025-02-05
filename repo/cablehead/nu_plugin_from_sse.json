@@ -6,7 +6,8 @@
     "build_command": "cargo build --release",
     "package_format": "numng",
     ":description": "Nushell plugin to parse a stream of HTTP server sent events",
-    ":tags": ["plugin", "lib"]
+    ":tags": ["plugin", "lib"],
+    ":status": "archived"
   },
   "latest": {},
   "git": {}
