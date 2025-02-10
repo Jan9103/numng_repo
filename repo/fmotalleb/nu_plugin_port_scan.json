@@ -7,7 +7,8 @@
     ],
     "build_command": "cargo build --release",
     "package_format": "numng",
-    ":nupm_name": "nu_plugin_port_scan"
+    ":nupm_name": "nu_plugin_port_scan",
+    ":status": "archived"
   },
   "1.0.1": {"git_ref": "v1.0.1"},
   "git": {}

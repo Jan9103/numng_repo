@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "fmotalleb/nu_plugin_port_extension",
+    "source_uri": "https://github.com/FMotalleb/nu_plugin_port_extension",
+    "nu_plugins": ["target/release/nu_plugin_port_extension"],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "latest": {},
+  "git": {}
+}
