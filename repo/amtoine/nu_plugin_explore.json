@@ -9,6 +9,7 @@
     ":description": "A fast structured data explorer for Nushell.",
     ":tags": ["plugin", "shell"]
   },
+  "0.101.0": {"git_ref": "0.101.0"},
   "0.100.0": {"git_ref": "0.100.0"},
   "0.99.1": {"git_ref": "0.99.1"},
   "0.98.0": {"git_ref": "0.98.0"},
