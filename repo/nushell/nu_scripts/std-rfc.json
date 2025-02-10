@@ -4,7 +4,9 @@
     "source_uri": "https://github.com/nushell/nu_scripts",
     "path_offset": "stdlib-candidate",
     "package_format": "nupm",
-    ":nupm_name": "std-rfc"
+    ":nupm_name": "std-rfc",
+    ":status": "archived",
+    ":description": "moved to nushell/nushell since a5963d53b37bffdd8eec34fe5640884b22517355"
   },
   "0.4.2": {"git_ref": "66c9995020dcb9c052eb53d3d549503964166b0b"},
   "git": {}
