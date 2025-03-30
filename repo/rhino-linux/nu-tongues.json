@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "rhino-linux/nu-tongues",
+    "source_uri": "https://github.com/rhino-linux/nu-tongues",
+    "nu_plugins": ["target/release/nu_plugin_nu-tongues"],
+    "build_command": "cargo build --release",
+    "package_format": "numng"
+  },
+  "0.1.0": {"git_ref": "v0.1.0"},
+  "git": {}
+}
