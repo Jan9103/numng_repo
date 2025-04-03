@@ -9,6 +9,7 @@
     "package_format": "numng",
     ":description": "A nushell plugin that makes finding and printing emojis easy in nushell"
   },
+  "0.12.0": {"git_ref": "v0.12.0"},
   "0.11.0": {"git_ref": "v0.11.0"},
   "0.10.0": {"git_ref": "v0.10.0"},
   "0.9.0": {"git_ref": "v0.9.0"},
