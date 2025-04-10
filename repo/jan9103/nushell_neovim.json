@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/nushell_neovim",
-    "source_uri": "https://github.com/Jan9103/nushell_neovim",
+    "source_uri": "https://github.com/jan9103/nushell_neovim",
     "package_format": "packer.nu",
     ":description": "Neovim tab-completion",
     ":tags": ["shell", "config", "completion"],

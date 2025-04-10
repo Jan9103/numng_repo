@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/nagoya",
-    "source_uri": "https://github.com/Jan9103/nagoya",
+    "source_uri": "https://github.com/jan9103/nagoya",
     "package_format": "numng",
     ":description": "A multithreading helper / utility library (mostly for cross-process data)",
     ":tags": ["lib", "script"]

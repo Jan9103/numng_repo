@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/nushell_starship",
-    "source_uri": "https://github.com/Jan9103/nushell_starship",
+    "source_uri": "https://github.com/jan9103/nushell_starship",
     "package_format": "packer.nu",
     ":description": "Apply the starship shellprompt. Superseeded by jan9103/nu-snippets/prompt/starship.",
     ":tags": ["shell", "config", "prompt"],

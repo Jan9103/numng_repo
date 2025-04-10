@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/nine",
-    "source_uri": "https://github.com/Jan9103/nine",
+    "source_uri": "https://github.com/jan9103/nine",
     "package_format": "numng",
     ":description": "A forward compatability layer for nu aiming to reduce script-maintenance.",
     ":tags": ["script", "lib"],

@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/nushell_make",
-    "source_uri": "https://github.com/Jan9103/nushell_make",
+    "source_uri": "https://github.com/jan9103/nushell_make",
     "package_format": "packer.nu",
     ":description": "Tab completion for GNUMake aka Makefile. Superseeded by jan9103/nu-snippets/completion/make.",
     ":tags": ["shell", "config", "completion"],

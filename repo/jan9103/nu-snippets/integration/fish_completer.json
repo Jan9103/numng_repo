@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/nu-snippets/integration/fish_completer",
-    "source_uri": "https://github.com/Jan9103/nu-snippets",
+    "source_uri": "https://github.com/jan9103/nu-snippets",
     "shell_config": {"source_env": "integration/fish_completer.nu"},
     "package_format": "numng",
     ":tags": ["shell", "config", "completion"],

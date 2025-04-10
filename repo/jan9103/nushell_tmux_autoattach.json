@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/nushell_tmux_autoattach",
-    "source_uri": "https://github.com/Jan9103/nushell_tmux_autoattach",
+    "source_uri": "https://github.com/jan9103/nushell_tmux_autoattach",
     "package_format": "packer.nu",
     ":description": "Automatically attach a tmux session on shell open. Superseeded by jan9103/nu-snippets/integration/tmux_attoattach.",
     ":tags": ["shell", "config"],

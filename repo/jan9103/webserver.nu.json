@@ -1,7 +1,7 @@
 {
   "_": {
     "name": "jan9103/webserver.nu",
-    "source_uri": "https://github.com/Jan9103/webserver.nu",
+    "source_uri": "https://github.com/jan9103/webserver.nu",
     "package_format": "numng",
     ":description": "A library for creating http webservers with a nu-script backend. A plugin based similarsolution: cablehead/nu_plugin_http",
     ":tags": ["script", "lib"]
