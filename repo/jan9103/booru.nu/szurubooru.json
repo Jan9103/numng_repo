@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "jan9103/booru.nu/szurubooru",
+    "package_format": "numng",
+    "source_uri": "https://github.com/jan9103/booru.nu",
+    "path_offset": "szurubooru",
+    ":tags": ["lib", "script"],
+    ":description": "API wrapper for szurubooru instances"
+  },
+  "git": {},
+  "0.0.1": {"git_ref": "7e679836b6037f7732c9eaaf46a64d270a490dd7"}
+}
