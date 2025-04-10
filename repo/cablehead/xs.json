@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "cablehead/xs",
+    "source_uri": "https://github.com/cablehead/xs",
+    "package_format": "numng",
+    "bin": {"xs": "target/release/xs"},
+    "nu_libs": {"xs.nu": "xs.nu"},
+    ":description": "xs (aka cross-stream) is an event stream store for personal, local-first use"
+  },
+  "0.2.1": {"git_ref": "v0.2.1"},
+  "git": {}
+}

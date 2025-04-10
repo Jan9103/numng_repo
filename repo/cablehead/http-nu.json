@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "cablehead/http-nu",
+    "source_uri": "https://github.com/cablehead/http-nu",
+    "bin": {"http-nu": "target/release/http-nu"},
+    "package_format": "numng",
+    "build_command": "cargo build --release",
+    ":description": "attach Nushell scripts to a HTTP interface (webserver)",
+    ":tags": ["bin", "script"]
+  },
+  "0.4.2": {"git_ref": "v0.4.2"},
+  "git": {}
+}
