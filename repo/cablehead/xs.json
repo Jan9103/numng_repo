@@ -5,6 +5,7 @@
     "package_format": "numng",
     "bin": {"xs": "target/release/xs"},
     "nu_libs": {"xs.nu": "xs.nu"},
+    "build_command": "cargo build --release",
     ":description": "xs (aka cross-stream) is an event stream store for personal, local-first use"
   },
   "0.2.1": {"git_ref": "v0.2.1"},

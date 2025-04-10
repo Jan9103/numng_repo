@@ -25,7 +25,7 @@ Afterwards packages can be loaded by path in here. Example:
 
 **Notes:**
 * Im not actively monitoring everything included for malware.
-* This repo is licensed under the Unlicense (public domain with explicit "no warranty"), however included projects might have a different license.
+* This repo is licensed under the Unlicense (public domain with explicit "no warranty"), however most projects packaged here have a different license.
 * The git-HEAD is available via `git`, but other versions might be missing.
 
 
@@ -42,8 +42,9 @@ Afterwards packages can be loaded by path in here. Example:
 If you
 
 * want to have something added
-* encountered a issue with loading of a package
+* encountered a issue a package
 * want your project to be removed
+  * or want to be added to a blocklist
 
 please open a issue or pull-request with all relevant information.
 
