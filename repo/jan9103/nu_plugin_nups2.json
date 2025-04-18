@@ -8,6 +8,8 @@
     "package_format": "numng",
     ":description": "planetside2 pack2 file-format support"
   },
-  "0.101.0": {"git_ref": "nu_plugin_v0.101.0"},
+  "0.103.0": {"git_ref": "4152805888f0b1ce5d61310a6f0a263cde7a746d"},
+  "0.102.0": {"git_ref": "f3b050fd618d955ff5b808075e6f4d06624fdd8a"},
+  "0.101.0": {"git_ref": "843ae49868495948ed14936109c57ddd22a1fb4b"},
   "git": {}
 }
