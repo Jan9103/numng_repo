@@ -4,7 +4,7 @@
     "path_offset": "crates/nu_plugin_formats",
     "source_uri": "https://github.com/nushell/nushell",
     "nu_plugins": ["target/release/nu_plugin_formats"],
-    "build_command": "cargo build --release",
+    "build_command": "cargo build --release --locked",
     "package_format": "numng",
     ":description": "Support for additional file-formats including eml, ics, ini, plist, and vcf."
   },

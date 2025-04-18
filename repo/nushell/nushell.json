@@ -2,7 +2,7 @@
   "_": {
     "name": "nushell/nushell",
     "source_uri": "https://github.com/nushell/nushell",
-    "build_command": "cargo build --release",
+    "build_command": "cargo build --release --locked",
     "package_format": "numng",
     "bin": {"nu": "target/release/nu"}
   },
