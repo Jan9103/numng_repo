@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "dam4rus/nu_plugin_nuts",
+    "source_uri": "https://github.com/dam4rus/nu_plugin_nuts",
+    "nu_plugins": ["target/release/nu_plugin_nuts"],
+    "build_command": "cargo build --release --locked",
+    "package_format": "numng",
+    ":description": "Nushell plugin for Nats "
+  },
+  "0.1.0": {"git_ref": "v0.1.0"},
+  "git": {}
+}
