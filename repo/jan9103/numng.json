@@ -8,5 +8,6 @@
     ":status": "alpha"
   },
   "latest": {},
-  "git": {}
+  "git": {},
+  "rustrewrite": {"git_ref": "rust-rewrite"}
 }
