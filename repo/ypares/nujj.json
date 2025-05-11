@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "ypares/nujj",
+    "source_uri": "https://github.com/YPares/nujj",
+    "nu_libs": {"nujj": "."},
+    "source_type": "numng"
+  },
+  "latest": {},
+  "git": {}
+}
