@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "bahex/nu-repl-command-info",
+    "nu_libs": {"repl-command-info": "repl-command-info"},
+    "package_format": "numng",
+    "source_uri": "https://github.com/bahex/nu-repl-command-info",
+    ":description": "A nushell menu that display information about the command closest to the cursor."
+  },
+  "latest": {},
+  "git": {}
+}

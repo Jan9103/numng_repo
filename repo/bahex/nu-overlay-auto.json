@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "bahex/nu-overlay-auto",
+    "source_uri": "https://github.com/bahex/nu-overlay-auto",
+    "package_format": "nupm",
+    ":description": "Developer tool to automatically reload overlay modules when they are modified."
+  },
+  "latest": {},
+  "git": {}
+}
