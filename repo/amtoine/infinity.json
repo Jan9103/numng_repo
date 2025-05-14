@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "amtoine/infinity",
+    "source_uri": "https://github.com/amtoine/infinity",
+    ":description": "Related to Infinity (the game)",
+    "build_command": "^$nu.current-exe make.nu",
+    "package_format": "numng",
+    "nu_libs": {"infinity": "mod.nu"}
+  },
+  "1.6.0": {"git_ref": "1.6.0"},
+  "git": {}
+}
