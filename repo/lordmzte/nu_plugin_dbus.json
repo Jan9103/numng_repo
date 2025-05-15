@@ -1,0 +1,13 @@
+{
+  "_": {
+    "name": "lordmtze/nu_plugin_dbus",
+    "source_uri": "https://github.com/lordmtze/nu_plugin_dbus",
+    "nu_plugins": ["target/release/nu_plugin_dbus"],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":tags": ["plugin"],
+    ":description": "Nushell plugin for interacting with D-Bus (fork of devyn/nu_plugin_dbus for newer nu-versions)"
+  },
+  "0.15.0": {"git_ref": "a22eac85b996f2ad0d63f9f2d4bb89fa71862260"},
+  "git": {}
+}
