@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "iceflottante/toolchain-cross-platform/themes/catppuccin_frappe",
+    "source_uri": "https://github.com/iceflottante/toolchain-cross-platform",
+    "package_format": "numng",
+    "shell_config": {"source": "catppuccin_frappe.nu"},
+    "path_offset": "nushell/themes",
+    ":tags": ["shell", "config", "theme"]
+  },
+  "git": {},
+  "latest": {}
+}
