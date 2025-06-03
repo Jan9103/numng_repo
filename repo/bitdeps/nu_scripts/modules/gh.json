@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "bitdeps/nu_scripts/modules/gh",
+    ":description": "Manage GitHub branches via the GitHub CLI (gh) from within Nushell.",
+    "source_uri": "https://github.com/bitdeps/nu_scripts",
+    "path_offset": "modules/gh",
+    "nu_libs": {"gh": "."}
+  },
+  "git": {},
+  "0.1.1": {"git_ref": "v0.1.1"},
+  "0.1.0": {"git_ref": "v0.1.0"}
+}
