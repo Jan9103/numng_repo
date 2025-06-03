@@ -1,6 +1,6 @@
 def main [] {
   cd repo
-  for json_file in (^fd -e json | lines) {
+  for json_file in (glob '**/*.json') {
     let json = (open $json_file)
     if "latest" in $json {
       continue
