@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "amtoine/nu-issue-tracker",
+    "source_uri": "https://github.com/amtoine/nu-issue-tracker",
+    ":description": "A nushell tool to keep track of the issue tracker over time.",
+    "package_format": "numng",
+    "nu_libs": {"nu-issue-tracker": "."}
+  },
+  "git": {},
+  "latest": {}
+}
