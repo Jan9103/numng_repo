@@ -7,7 +7,11 @@
     ":tags": ["shell", "config", "completion"],
     ":description": "Integrate carapace tab-completion into nushell"
   },
-  "1.0.1": {"git_ref": "ecaf262d86bb7139b2874e83608c49f1fba82799"},
-  "1.0.0": {"git_ref": "33d72659622031bbed2c06058bd89c62a556e03a"},
+  "dev": {
+    "git_ref": "dev",
+    "depends": [{"name": "jan9103/nu-snippets/framework/external_completer", "version": "dev"}]
+  },
+  "1.0.1": {"git_ref": "ecaf262d86bb7139b2874e83608c49f1fba82799", "depends": []},
+  "1.0.0": {"git_ref": "33d72659622031bbed2c06058bd89c62a556e03a", "depends": []},
   "git": {}
 }
