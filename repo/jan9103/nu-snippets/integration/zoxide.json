@@ -8,10 +8,11 @@
     },
     "package_format": "numng",
     ":tags": ["shell", "config"],
-    ":description": "Integrate zoxide into nushell"
+    ":description": "Integrate zoxide into nushell",
+    "depends": [{"name": "jan9103/nu-snippets/framework/external_completer", "version": "~1.0.1"}]
   },
   "1.1.0": {"git_ref": "23eb5a5e96de723fb834737ddd00a567deb5ed6e"},
-  "1.0.1": {"git_ref": "ecaf262d86bb7139b2874e83608c49f1fba82799"},
-  "1.0.0": {"git_ref": "2a5105749a2c39a10ff0526ae2ae734136ec6cdc"},
+  "1.0.1": {"git_ref": "ecaf262d86bb7139b2874e83608c49f1fba82799", "depends": []},
+  "1.0.0": {"git_ref": "2a5105749a2c39a10ff0526ae2ae734136ec6cdc", "depends": []},
   "git": {}
 }
