@@ -3,7 +3,7 @@
     "name": "jan9103/nu-snippets/integration/zoxide",
     "source_uri": "https://github.com/jan9103/nu-snippets",
     "shell_config": {
-      "use": "integration/zoxide.nu",
+      "use_all": "integration/zoxide.nu",
       "source_env": "integration/zoxide.nu"
     },
     "package_format": "numng",
