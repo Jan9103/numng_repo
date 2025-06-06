@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "jan9103/nu-snippets/framework/external_completer",
+    "source_uri": "https://github.com/jan9103/nu-snippets",
+    "shell_config": {"source_env": "framework/external_completer.nu"},
+    "package_format": "numng",
+    ":tags": ["shell", "config", "completion"],
+    ":description": "A extensible framework for managing external completers"
+  },
+  "1.0.0": {"git_ref": "ff99f8bb3db0f006921d00912967a4ec3aebf852"},
+  "git": {}
+}

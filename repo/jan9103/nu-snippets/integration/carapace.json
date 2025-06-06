@@ -5,9 +5,13 @@
     "shell_config": {"source_env": "integration/carapace.nu"},
     "package_format": "numng",
     ":tags": ["shell", "config", "completion"],
-    ":description": "Integrate carapace tab-completion into nushell"
+    ":description": "Integrate carapace tab-completion into nushell",
+    "depends": [{"name": "jan9103/nu-snippets/framework/external_completer", "version": "1.0"}]
   },
-  "1.0.1": {"git_ref": "ecaf262d86bb7139b2874e83608c49f1fba82799"},
-  "1.0.0": {"git_ref": "33d72659622031bbed2c06058bd89c62a556e03a"},
-  "git": {}
+  "1.1.0": {"git_ref": "ff99f8bb3db0f006921d00912967a4ec3aebf852"},
+  "1.0.1": {"git_ref": "ecaf262d86bb7139b2874e83608c49f1fba82799", "depends": []},
+  "1.0.0": {"git_ref": "33d72659622031bbed2c06058bd89c62a556e03a", "depends": []},
+  "git": {
+    "depends": [{"name": "jan9103/nu-snippets/framework/external_completer", "version": "git"}]
+  }
 }
