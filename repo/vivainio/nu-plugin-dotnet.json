@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "vivainio/nu-plugin-dotnet",
+    "source_uri": "https://github.com/vivainio/nu-plugin-dotnet",
+    "build_command": "dotnet build -c Release; mv bin/Release/*/*/nu_plugin_dotnet .",
+    "nu_plugins": ["nu_plugin_dotnet"],
+    "package_format": "numng",
+    ":description": "Nushell plugin that allows you to run .NET code. [vibecoded]"
+  },
+  "0.0.1": {"git_ref": "0.0.1"},
+  "git": {}
+}
