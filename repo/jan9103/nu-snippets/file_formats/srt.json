@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "jan9103/nu-snippets/file_formats/srt",
+    "source_uri": "https://github.com/jan9103/nu-snippets",
+    "shell_config": {"use_all": "file_formats/srt.nu"},
+    "package_format": "numng",
+    ":tags": [],
+    ":description": "Support for reading and writing srt files"
+  },
+  "1.0.0": {"git_ref": "530ded83098ba704761ddc1b585baa1f31ab0bfd"},
+  "git": {}
+}
