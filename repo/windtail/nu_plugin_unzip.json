@@ -8,6 +8,7 @@
     ":description": "A nushell plugin for unzipping files.",
     ":tags": ["plugin"]
   },
+  "0.2.1": {"git_ref": "v0.2.1"},
   "0.1.0": {"git_ref": "v0.1.0"},
   "git": {}
 }

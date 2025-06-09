@@ -7,6 +7,7 @@
     "package_format": "numng",
     ":description": "Nushell plugin that allows you to run .NET code. [vibecoded]"
   },
+  "0.0.8": {"git_ref": "0.0.8"},
   "0.0.2": {"git_ref": "0.0.2"},
   "0.0.1": {"git_ref": "0.0.1"},
   "git": {}
