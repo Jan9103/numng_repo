@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "fdncred/nu_plugin_tree",
+    "source_uri": "https://github.com/fdncred/nu_plugin_tree",
+    "nu_plugins": ["target/release/nu_plugin_tree"],
+    "build_command": "cargo build --release",
+    "package_format": "numng",
+    ":description": "A nushell plugin that transform nushell values into a tree shape"
+  },
+  "latest": {},
+  "git": {}
+}
