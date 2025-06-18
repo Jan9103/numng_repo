@@ -4,7 +4,8 @@
     "source_uri": "https://github.com/jan9103/nushell_yasp",
     "package_format": "numng",
     ":description": "A custom shell prompt for myself",
-    ":tags": ["shell", "config", "prompt"]
+    ":tags": ["shell", "config", "prompt"],
+    ":status": "archived"
   },
   "latest": {},
   "git": {}
