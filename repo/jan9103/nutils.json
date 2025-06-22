@@ -6,6 +6,7 @@
     ":description": "Utility functions for scripting, which i frequently need",
     ":tags": ["script", "lib"]
   },
+  "1.0.3": {"git_ref": "1.0.3"},
   "1.0.2": {"git_ref": "1.0.2"},
   "1.0.1": {"git_ref": "v1.0.1"},
   "1.0.0": {"git_ref": "v1.0.0"},
