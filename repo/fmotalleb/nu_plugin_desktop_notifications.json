@@ -9,6 +9,7 @@
     "package_format": "numng",
     ":nupm_name": "nu_plugin_desktop_notifications"
   },
+  "1.2.12": {"git_ref": "v1.2.12"},
   "1.2.4": {"git_ref": "v1.2.4"},
   "git": {}
 }
