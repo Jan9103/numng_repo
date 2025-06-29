@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "jesusperez/nu_plugin_kcl",
+    "package_format": "numng",
+    "source_uri": "https://github.com/jesusperez/nu_plugin_kcl",
+    "build_command": "cargo build --release --locked",
+    "nu_plugins": ["target/release/nu_plugin_kcl"],
+    ":description": "A Nushell plugin to use with KCL CLI wrapper"
+  },
+  "latest": {},
+  "git": {}
+}

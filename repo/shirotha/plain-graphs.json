@@ -1,0 +1,10 @@
+{
+  "_": {
+    "name": "shirotha/plain-graphs",
+    "source_uri": "https://github.com/shirotha/plain-graphs",
+    "package_format": "nupm",
+    ":description": "Handle graph data stored in plain text formats"
+  },
+  "latest": {},
+  "git": {}
+}

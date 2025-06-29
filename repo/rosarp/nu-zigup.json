@@ -1,0 +1,11 @@
+{
+  "_": {
+    "name": "rosarp/nu-zigup",
+    "source_uri": "https://github.com/rosarp/nu-zigup",
+    ":description": "Nushell script to install/update zig & zls",
+    "package_format": "numng",
+    "bin": {"zigup": "zigup"}
+  },
+  "latest": {},
+  "git": {}
+}
