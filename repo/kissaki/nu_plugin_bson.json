@@ -7,6 +7,7 @@
     "package_format": "numng",
     ":description": "Nushell plugin for BSON (Binary JSON) format `from bson` and `to bson`"
   },
+  "25.1051.1": {"git_ref": "v25.1051.1"},
   "0.1.0": {"git_ref": "v0.1.0"},
   "git": {}
 }
