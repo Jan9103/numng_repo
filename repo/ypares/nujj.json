@@ -3,7 +3,9 @@
     "name": "ypares/nujj",
     "source_uri": "https://github.com/YPares/nujj",
     "nu_libs": {"nujj": "."},
-    "source_type": "numng"
+    "source_type": "numng",
+    ":status": "archived",
+    ":description": "moved to ypares/monurepo/nujj"
   },
   "latest": {},
   "git": {}

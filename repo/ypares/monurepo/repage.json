@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ypares/monurepo/repage",
+    "source_uri": "https://github.com/YPares/monurepo",
+    "path_offset": "repage",
+    "nu_libs": {"repage": "."},
+    "source_type": "numng",
+    ":description": "record the result of the last command, show info about it in the prompt and re-render it in detail in a pager"
+  },
+  "latest": {},
+  "git": {}
+}

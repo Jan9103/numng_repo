@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ypares/monurepo/jjiles",
+    "source_uri": "https://github.com/YPares/monurepo",
+    "path_offset": "jjiles",
+    "nu_libs": {"jjiles": "."},
+    "source_type": "numng",
+    ":description": "a jj Watcher: an interactive jj log with fzf (à la jj-fzf), with custom jj log templates support, auto-refresh, adaptive diff layout, system theme detection (which will also work in WSL) and syntax-highlighting via delta"
+  },
+  "latest": {},
+  "git": {}
+}

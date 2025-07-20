@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ypares/monurepo/prowser",
+    "source_uri": "https://github.com/YPares/monurepo",
+    "path_offset": "prowser",
+    "nu_libs": {"prowser": "."},
+    "source_type": "numng",
+    ":description": "a prompt-based file browser, based on std dirs and fzf"
+  },
+  "latest": {},
+  "git": {}
+}

@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ypares/monurepo/rescope",
+    "source_uri": "https://github.com/YPares/monurepo",
+    "path_offset": "rescope",
+    "nu_libs": {"rescope": "."},
+    "source_type": "numng",
+    ":description": "scoped resources and deferred execution"
+  },
+  "latest": {},
+  "git": {}
+}

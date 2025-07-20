@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ypares/monurepo/enverlay",
+    "source_uri": "https://github.com/YPares/monurepo",
+    "path_offset": "enverlay",
+    "nu_libs": {"enverlay": "."},
+    "source_type": "numng",
+    ":description": "a tunable direnv integration, and a prompt that shows your current env and Nushell overlays"
+  },
+  "latest": {},
+  "git": {}
+}

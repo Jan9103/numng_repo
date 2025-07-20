@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ypares/monurepo/nujj",
+    "source_uri": "https://github.com/YPares/monurepo",
+    "path_offset": "nujj",
+    "nu_libs": {"nujj": "."},
+    "source_type": "numng",
+    ":description": "nushell wrappers for jj (Jujutsu)"
+  },
+  "latest": {},
+  "git": {}
+}

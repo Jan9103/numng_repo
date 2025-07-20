@@ -3,8 +3,9 @@
     "name": "ypares/rescope.nu",
     "source_uri": "https://github.com/ypares/rescope.nu",
     "nu_libs": {"rescope": "."},
-    ":description": "Scoped and exception-safe resources for Nushell",
-    "package_format": "numng"
+    "package_format": "numng",
+    ":status": "archived",
+    ":description": "moved to ypares/monurepo/rescope"
   },
   "latest": {},
   "git": {}

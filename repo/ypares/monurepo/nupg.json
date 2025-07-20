@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ypares/monurepo/nupg",
+    "source_uri": "https://github.com/YPares/monurepo",
+    "path_offset": "nupg",
+    "nu_libs": {"nupg": "."},
+    "source_type": "numng",
+    ":description": "nushell wrappers for psql"
+  },
+  "latest": {},
+  "git": {}
+}
