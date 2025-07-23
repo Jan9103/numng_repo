@@ -6,6 +6,7 @@
     "build_command": "cargo build --release --locked -p nu_plugin_gstat",
     "package_format": "numng"
   },
+  "0.106.0": {"git_ref": "0.106.0"},
   "0.105.1": {"git_ref": "0.105.1"},
   "0.105.0": {"git_ref": "0.105.0"},
   "0.104.1": {"git_ref": "0.104.1"},
