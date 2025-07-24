@@ -4,8 +4,8 @@
     "source_uri": "https://github.com/YPares/monurepo",
     "path_offset": "rescope",
     "nu_libs": {"rescope": "."},
-    "source_type": "numng",
-    ":description": "scoped resources and deferred execution"
+    ":description": "scoped resources and deferred execution",
+    "package_format": "numng"
   },
   "latest": {},
   "git": {}

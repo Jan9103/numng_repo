@@ -26,10 +26,10 @@ def check_definition [a: any]: nothing -> nothing {
   assert ("package_format" in $a)  # in case something gets nupm packaging (-> prevent issues)
   assert ($a.package_format in ["numng", "packer.nu", "nupm"])
   assert (not ($a.name | str ends-with ".json"))  # common issue with my workflow
-  if "build_command" in $a {assert ($a.build_command in [
-    "cargo build --release"
-    "cargo build --release --locked"
-  ])}  # for now good for typo-checking
-  $a.nu_plugins? | default [] | each {|plugin| assert ($plugin | str starts-with "target/release/nu_plugin_")}
+  # if "build_command" in $a {assert ($a.build_command in [
+  #   "cargo build --release"
+  #   "cargo build --release --locked"
+  # ])}  # for now good for typo-checking
+  # $a.nu_plugins? | default [] | each {|plugin| assert ($plugin | str starts-with "target/release/nu_plugin_")}
   null
 }

@@ -4,7 +4,7 @@
     "source_uri": "https://github.com/YPares/monurepo",
     "path_offset": "nupg",
     "nu_libs": {"nupg": "."},
-    "source_type": "numng",
+    "package_format": "numng",
     ":description": "nushell wrappers for psql"
   },
   "latest": {},

@@ -5,7 +5,8 @@
     "path_offset": "jjiles",
     "nu_libs": {"jjiles": "."},
     "source_type": "numng",
-    ":description": "a jj Watcher: an interactive jj log with fzf (à la jj-fzf), with custom jj log templates support, auto-refresh, adaptive diff layout, system theme detection (which will also work in WSL) and syntax-highlighting via delta"
+    ":description": "a jj Watcher: an interactive jj log with fzf (à la jj-fzf), with custom jj log templates support, auto-refresh, adaptive diff layout, system theme detection (which will also work in WSL) and syntax-highlighting via delta",
+    "package_format": "numng"
   },
   "latest": {},
   "git": {}

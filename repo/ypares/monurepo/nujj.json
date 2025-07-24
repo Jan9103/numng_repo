@@ -4,8 +4,8 @@
     "source_uri": "https://github.com/YPares/monurepo",
     "path_offset": "nujj",
     "nu_libs": {"nujj": "."},
-    "source_type": "numng",
-    ":description": "nushell wrappers for jj (Jujutsu)"
+    ":description": "nushell wrappers for jj (Jujutsu)",
+    "package_format": "numng"
   },
   "latest": {},
   "git": {}

@@ -4,7 +4,8 @@
     ":description": "Manage GitHub branches via the GitHub CLI (gh) from within Nushell.",
     "source_uri": "https://github.com/bitdeps/nu_scripts",
     "path_offset": "modules/gh",
-    "nu_libs": {"gh": "."}
+    "nu_libs": {"gh": "."},
+    "package_format": "numng"
   },
   "git": {},
   "0.2.2": {"git_ref": "v0.2.2"},

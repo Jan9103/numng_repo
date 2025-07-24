@@ -4,6 +4,7 @@
     "source_uri": "https://github.com/vivainio/nu-prelude",
     "source_type": "numng",
     "nu_libs": {"nu-prelude": "."},
+    "package_format": "numng",
     ":description": "A comprehensive mathematical set operations library for Nushell that provides core set theory functions using Nushell lists."
   },
   "git": {},

@@ -5,7 +5,8 @@
     "path_offset": "prowser",
     "nu_libs": {"prowser": "."},
     "source_type": "numng",
-    ":description": "a prompt-based file browser, based on std dirs and fzf"
+    ":description": "a prompt-based file browser, based on std dirs and fzf",
+    "package_format": "numng"
   },
   "latest": {},
   "git": {}
