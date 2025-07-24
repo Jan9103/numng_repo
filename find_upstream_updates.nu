@@ -5,7 +5,7 @@ def main [] {
     if "latest" in $json {
       continue  # this repo does no manual versioning for this package
     }
-    if ($json | get -i _.':status') == "archived" {
+    if ($json._.':status'?) == "archived" {
       continue
     }
     if $json._.source_uri !~ '^https://github.com/' {
@@ -19,7 +19,7 @@ def main [] {
 }
 
 def github_get_latest_tag [repo_url: string]: nothing -> string {
-  let parsed = ($repo_url | parse 'https://github.com/{author}/{repo}' | get 0?)
+  let parsed = ($repo_url | parse 'https://github.com/{author}/{repo}').0?
   if $parsed == null { return null }
   if '/' in $parsed.repo { return null }
   try {
