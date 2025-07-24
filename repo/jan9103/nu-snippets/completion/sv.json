@@ -13,8 +13,7 @@
     ],
     ":description": "Tab completion for sv (void-linux service manager)"
   },
-  "1.0.0": {
-    "git_ref": "2a5105749a2c39a10ff0526ae2ae734136ec6cdc"
-  },
+  "1.0.1": {"git_ref": "b3652d0fa024b22c347a6d4a1e9eea36c36c68eb"},
+  "1.0.0": {"git_ref": "2a5105749a2c39a10ff0526ae2ae734136ec6cdc"},
   "git": {}
 }

@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "jan9103/nu-snippets/file_formats/rss",
+    "source_uri": "https://github.com/jan9103/nu-snippets",
+    "shell_config": {"use_all": "file_formats/rss.nu"},
+    "package_format": "numng",
+    ":tags": [],
+    ":description": "Support for reading and writing rss files"
+  },
+  "1.0.0": {"git_ref": "b3652d0fa024b22c347a6d4a1e9eea36c36c68eb"},
+  "git": {}
+}

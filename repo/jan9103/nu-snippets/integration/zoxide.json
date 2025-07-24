@@ -10,6 +10,7 @@
     ":tags": ["shell", "config"],
     ":description": "Integrate zoxide into nushell"
   },
+  "1.2.1": {"git_ref", "b3652d0fa024b22c347a6d4a1e9eea36c36c68eb"},
   "1.2.0": {"git_ref": "f5982cc6dc9c8505441d4f43561c82de164a0f5f"},
   "1.1.0": {"git_ref": "23eb5a5e96de723fb834737ddd00a567deb5ed6e", "depends": [{"name": "jan9103/nu-snippets/framework/external_completer", "version": "~1.0.1"}]},
   "1.0.1": {"git_ref": "ecaf262d86bb7139b2874e83608c49f1fba82799"},

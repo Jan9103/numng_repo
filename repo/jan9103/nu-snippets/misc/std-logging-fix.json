@@ -7,6 +7,7 @@
     ":tags": ["shell", "config"],
     ":description": "Fix all kinds of common errors raised by std/logging"
   },
+  "1.0.1": {"git_ref": "b3652d0fa024b22c347a6d4a1e9eea36c36c68eb"},
   "1.0.0": {"git_ref": "ff7596487a1baf0fbbe3fd61f33cb799396739ce"},
   "git": {}
 }

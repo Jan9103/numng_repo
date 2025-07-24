@@ -7,6 +7,7 @@
     ":tags": [],
     ":description": "Support for reading and writing bencode files"
   },
+  "1.0.1": {"git_ref": "b3652d0fa024b22c347a6d4a1e9eea36c36c68eb"},
   "1.0.0": {"git_ref": "530ded83098ba704761ddc1b585baa1f31ab0bfd"},
   "git": {}
 }
