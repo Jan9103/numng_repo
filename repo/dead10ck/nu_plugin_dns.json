@@ -8,6 +8,7 @@
     ":description": "DNS utility for nushell",
     ":tags": ["plugin"]
   },
+  "4.0.3": {"git_ref": "v4.0.3"},
   "4.0.2": {"git_ref": "v4.0.2"},
   "4.0.1": {"git_ref": "v4.0.1"},
   "4.0.0": {"git_ref": "v4.0.0"},

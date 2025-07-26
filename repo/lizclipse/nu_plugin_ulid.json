@@ -6,6 +6,7 @@
     "build_command": "cargo build --release",
     "package_format": "numng"
   },
+  "0.15.0": {"git_ref": "v0.15.0"},
   "0.14.0": {"git_ref": "v0.14.0"},
   "0.13.0": {"git_ref": "v0.13.0"},
   "0.12.0": {"git_ref": "v0.12.0"},
