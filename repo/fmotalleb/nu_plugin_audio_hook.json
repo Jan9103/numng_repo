@@ -9,6 +9,7 @@
     "package_format": "numng",
     ":nupm_name": "nu_plugin_audio_hook"
   },
+  "0.106.0": {"git_ref": "v0.106.1"},
   "0.2.0": {"git_ref": "v0.2.0"},
   "git": {}
 }
