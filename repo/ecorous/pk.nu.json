@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "ecorous/pk.nu",
+    "source_uri": "https://github.com/Ecorous/pk.nu",
+    "package_format": "numng",
+    "nu_libs": {"pk.nu": "pk.nu"},
+    "bin": {"fronters.nu": "fronters.nu"},
+    "description": "plural kit"
+  },
+  "latest": {"git_ref": "mistress"},
+  "git": {"git_ref": "mistress"}
+}
