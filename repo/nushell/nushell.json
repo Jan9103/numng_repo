@@ -6,6 +6,7 @@
     "package_format": "numng",
     "bin": {"nu": "target/release/nu"}
   },
+  "0.107.0": {"git_ref": "0.107.0"},
   "0.106.1": {"git_ref": "0.106.1"},
   "0.106.0": {"git_ref": "0.106.0"},
   "0.105.1": {"git_ref": "0.105.1"},
