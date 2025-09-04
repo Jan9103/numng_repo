@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "stevedonovan/openai.nu",
+    ":description": "A straightforward implementation of OpenAI's Responses API for Nushell",
+    "nu_libs": {"openai.nu": "openai.nu"},
+    "shell_config": {"use_all": "openai.nu"},
+    "package_format": "numng",
+    "source_uri": "https://github.com/stevedonovan/openai.nu"
+  },
+  "latest": {},
+  "git": {}
+}
