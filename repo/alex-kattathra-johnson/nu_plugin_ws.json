@@ -10,6 +10,7 @@
     ":description": "Nushell plugin for streaming output from websocket endpoint",
     ":tags": ["plugin", "lib", "script"]
   },
+  "1.0.6": {"git_ref": "v1.0.6"},
   "1.0.5": {"git_ref": "v1.0.5"},
   "1.0.4": {"git_ref": "v1.0.4"},
   "1.0.3": {"git_ref": "v1.0.3"},
