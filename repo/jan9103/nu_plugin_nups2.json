@@ -6,7 +6,8 @@
     "nu_plugins": ["target/release/nu_plugin_nups2"],
     "build_command": "cargo build --release",
     "package_format": "numng",
-    ":description": "planetside2 pack2 file-format support"
+    ":description": "planetside2 pack2 file-format support",
+    ":status": "archived"
   },
   "0.103.0": {"git_ref": "4152805888f0b1ce5d61310a6f0a263cde7a746d"},
   "0.102.0": {"git_ref": "f3b050fd618d955ff5b808075e6f4d06624fdd8a"},

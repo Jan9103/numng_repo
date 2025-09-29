@@ -5,7 +5,7 @@
     "package_format": "numng",
     ":description": "A experimental TUI library",
     ":tags": ["script", "lib"],
-    ":status": "alpha"
+    ":status": "archived"
   },
   "0.0.2": {"git_ref": "v0.0.2"},
   "0.0.1": {"git_ref": "v0.0.1"},
