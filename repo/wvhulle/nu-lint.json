@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "wvhulle/nu-lint",
+    "source_uri": "https://github.com/wvhulle/nu-lint",
+    "package_format": "numng",
+    "bin": {"nu-lint": "target/release/nu-lint"},
+    "build_command": "cargo build --release --locked",
+    ":description": "Linter for the Nushell shell scripting language"
+  },
+  "latest": {},
+  "git": {}
+}
