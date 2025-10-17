@@ -8,6 +8,7 @@
     "build_command": "cargo build --release --locked",
     ":description": "xs (aka cross-stream) is an event stream store for personal, local-first use"
   },
+  "0.6.4": {"git_ref": "v0.6.4"},
   "0.6.3": {"git_ref": "v0.6.3"},
   "0.6.2": {"git_ref": "v0.6.2"},
   "0.6.1": {"git_ref": "v0.6.1"},
