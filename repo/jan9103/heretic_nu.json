@@ -1,0 +1,12 @@
+{
+  "_": {
+    "name": "jan9103/heretic_nu",
+    "source_uri": "https://github.com/jan9103/heretic_nu",
+    "package_format": "numng",
+    "build_command": "cargo build --release",
+    "bin": {"heretic_nu": "target/release/heretic_nu"},
+    ":tags": ["bin"]
+  },
+  "latest": {},
+  "git": {}
+}
