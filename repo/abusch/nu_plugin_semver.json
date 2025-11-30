@@ -10,6 +10,7 @@
     ":description": "A nushell plugin to work with semver versions",
     ":tags": ["plugin", "lib"]
   },
+  "0.11.9": {"git_ref": "v0.11.9"},
   "0.11.8": {"git_ref": "v0.11.8"},
   "0.11.7": {"git_ref": "v0.11.7"},
   "0.11.6": {"git_ref": "v0.11.6"},
