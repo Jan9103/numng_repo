@@ -6,6 +6,7 @@
     "build_command": "cargo build --release --locked -p nu_plugin_inc",
     "package_format": "numng"
   },
+  "0.109.1": {"git_ref": "0.109.1"},
   "0.109.0": {"git_ref": "0.109.0"},
   "0.108.0": {"git_ref": "0.108.0"},
   "0.107.0": {"git_ref": "0.107.0"},
