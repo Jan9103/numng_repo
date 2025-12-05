@@ -7,6 +7,7 @@
     "package_format": "numng",
     ":description": "A webbrowser crammed into a nu plugin (parse html, xml, data-urls, mime types, etc)"
   },
+  "0.109.1": {"git_ref": "0.109.1"},
   "0.109.0": {"git_ref": "0.109.0"},
   "0.108.0": {"git_ref": "0.108.0"},
   "git": {}
